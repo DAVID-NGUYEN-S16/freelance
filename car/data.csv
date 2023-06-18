@@ -1,0 +1,1001 @@
+,Tên_xe,hãng_xe,link_bài_viết,loại_xe,nguồn_gốc,số_km_đã_lái,màu,số_ghế,dung_tích_xi_lanh,loại_nguyên_liệu,số_sàn_hay_tự_động,dẫn_động,giá,năm_sản_xuất
+0,Xe VinFast Lux A 2.0 Base 2021,VinFast,xe-vinfast-lux_a_2.0-base-2021-4935738,Sedan,Lắp ráp trong nước,"41,000 Km",Đen,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,39000000,2021
+1,Xe VinFast Lux A 2.0 Base 2022,VinFast,xe-vinfast-lux_a_2.0-base-2022-4935737,Sedan,Lắp ráp trong nước,"6,600 Km",Đỏ,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,66000000,2022
+2,Xe BMW X7 SUV 2020,BMW,xe-bmw-x7-suv-2020-4935736,SUV,Nhập khẩu,"40,000 Km",-,6 chỗ,,Xăng,Số tự động,4WD - Dẫn động 4 bánh,4690000000,2020
+3,Xe Lexus RX 350L 2021,Lexus,xe-lexus-rx-350l-2021-4874881,SUV,Nhập khẩu,"16,000 Km",Trắng,7 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,3680000000,2021
+4,Xe VinFast Lux SA 2.0 Plus 2.0 AT 2021,VinFast,xe-vinfast-lux_sa_2.0-plus-2.0-at-2021-4861856,SUV,Lắp ráp trong nước,"16,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,86000000,2021
+5,Xe Mercedes Benz E class E180 2021,Mercedes Benz,xe-mercedes_benz-e_class-e180-2021-4935609,Sedan,Lắp ráp trong nước,"4,000 Km",Đỏ,0 chỗ,,,-,-,1439000000,2021
+6,Xe Mazda 6 Luxury 2.0 AT 2019,Mazda,xe-mazda-6-luxury-2.0-at-2019-4919501,Sedan,Lắp ráp trong nước,"39,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,66000000,2019
+7,Xe Suzuki Swift GLX 1.2 AT 2018,Suzuki,xe-suzuki-swift-glx-1.2-at-2018-4919533,Hatchback,Nhập khẩu,"50,000 Km",Xanh,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2018
+8,Xe Lexus RX 350L 2019,Lexus,xe-lexus-rx-350l-2019-4873157,SUV,Nhập khẩu,"29,000 Km",Trắng,7 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,3450000000,2019
+9,Xe Mercedes Benz GLC 300 4Matic 2021,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2021-4865698,SUV,Lắp ráp trong nước,"22,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2090000000,2021
+10,Xe Chevrolet Trailblazer LT 2.5L VGT 4x2 AT 2018,Chevrolet,xe-chevrolet-trailblazer-lt-2.5l-vgt-4x2-at-2018-4562906,SUV,Nhập khẩu,"50,000 Km",Bạc,7 chỗ,2.5 L,,Số tự động,RFD - Dẫn động cầu sau,15000000,2018
+11,Xe Toyota Camry 2.4G 2008,Toyota,xe-toyota-camry-2.4g-2008-4346635,Sedan,Lắp ráp trong nước,"80,000 Km",Bạc,5 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2008
+12,Xe Mazda 3 1.5L Luxury 2022,Mazda,xe-mazda-3-1.5l-luxury-2022-4881072,Sedan,Lắp ráp trong nước,"4,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,86000000,2022
+13,Xe Lexus NX 300 2020,Lexus,xe-lexus-nx-300-2020-4872710,SUV,Nhập khẩu,"40,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1950000000,2020
+14,Xe Mercedes Benz S class S450L 2020,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2020-4865706,Sedan,Lắp ráp trong nước,"12,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3390000000,2020
+15,Xe Ford EcoSport Titanium 2020,Ford,xe-ford-ecosport-titanium-2020-4935734,SUV,Nhập khẩu,"50,000 Km",Ghi,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,50000000,2020
+16,Xe Hyundai i10 Ì I 2016,Hyundai,xe-hyundai-i10-i-i-2016-4935733,Sedan,Lắp ráp trong nước,800 Km,-,5 chỗ,,Xăng,Số tay,-,20000000,2016
+17,Xe Lexus ES 250 2020,Lexus,xe-lexus-es-250-2020-4861157,Sedan,Nhập khẩu,"19,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,2290000000,2020
+18,Xe Mercedes Benz E class E250 2010,Mercedes Benz,xe-mercedes_benz-e_class-e250-2010-4912396,Sedan,Lắp ráp trong nước,"130,000 Km",Trắng,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,30000000,2010
+19,Xe Mercedes Benz C class C200 CGI 2010,Mercedes Benz,xe-mercedes_benz-c_class-c200-cgi-2010-4905103,Sedan,Lắp ráp trong nước,"152,386 Km",Đen,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,10000000,2010
+20,Xe Hyundai Tucson 2.0 ATH 2020,Hyundai,xe-hyundai-tucson-2.0-ath-2020-4912168,Crossover,Lắp ráp trong nước,"32,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,94000000,2020
+21,Xe Toyota Vios 1.5E 2016,Toyota,xe-toyota-vios-1.5e-2016-4779018,Sedan,Lắp ráp trong nước,"67,665 Km",Vàng,5 chỗ,1.5 L,,Số tay,FWD - Dẫn động cầu trước,11000000,2016
+22,Xe Ford Everest 4x2AT Titanium 2022,Ford,xe-ford-everest-4x2at-titanium-2022-4934023,SUV,Nhập khẩu,"7,000 Km",Đen,7 chỗ,,diesel,Số tự động,FWD - Dẫn động cầu trước,1240000000,2022
+23,Xe Toyota Veloz Cross 1.5Top 2022,Toyota,xe-toyota-veloz--cross-1.5top-2022-4934576,SUV,Nhập khẩu,"15,000 Km",Đỏ,7 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,95000000,2022
+24,Xe Peugeot 3008 Allure 1.6 AT 2020,Peugeot,xe-peugeot-3008-allure-1.6-at-2020-4926860,Crossover,Lắp ráp trong nước,"38,000 Km",Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,79000000,2020
+25,Xe Kia Soluto 1.4 AT Luxury 2020,Kia,xe-kia-soluto-1.4-at-luxury-2020-4861088,Sedan,Lắp ráp trong nước,"20,000 Km",Đỏ,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2020
+26,Xe Mazda CX5 2.5 AT 2WD 2018,Mazda,xe-mazda-cx5-2.5-at-2wd-2018-4926880,SUV,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,9000000,2018
+27,Xe Toyota Camry 2.5Q 2019,Toyota,xe-toyota-camry-2.5q-2019-4930650,Sedan,Nhập khẩu,"60,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2019
+28,Xe Honda CRV L 2019,Honda,xe-honda-crv-l-2019-4878684,SUV,Nhập khẩu,"40,000 Km",Bạc,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2019
+29,Xe Mazda CX5 2.0 Luxury 2020,Mazda,xe-mazda-cx5-2.0-luxury-2020-4933192,SUV,Lắp ráp trong nước,"6,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2020
+30,Xe Peugeot 3008 AL 2022,Peugeot,xe-peugeot-3008-al-2022-4904690,Crossover,Lắp ráp trong nước,"9,000 Km",Cam,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,1029000000,2022
+31,Xe Peugeot 2008 Active 1.2 AT 2022,Peugeot,xe-peugeot-2008-active-1.2-at-2022-4923155,Crossover,Lắp ráp trong nước,"30,000 Km",Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2022
+32,Xe Volkswagen Polo 1.6 AT 2022,Volkswagen,xe-volkswagen-polo-1.6-at-2022-4934600,Hatchback,Nhập khẩu,"5,000 Km",-,0 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,79000000,2022
+33,Xe Hyundai Accent 2015,Hyundai,xe-hyundai-accent--2015-4935722,Hatchback,Nhập khẩu,"57,000 Km",Trắng,0 chỗ,,,Số tự động,-,55000000,2015
+34,Xe Mercedes Benz C class C200 2015,Mercedes Benz,xe-mercedes_benz-c_class-c200-2015-4935624,Sedan,Lắp ráp trong nước,"80,000 Km",Đen,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,50000000,2015
+35,Xe Toyota Prado TXL 2.7L 2016,Toyota,xe-toyota-prado-txl-2.7l-2016-4897596,SUV,Nhập khẩu,"85,000 Km",Cát,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,1485000000,2016
+36,Xe BMW X5 Xdrive35i 2010,BMW,xe-bmw-x5-xdrive35i-2010-4935714,SUV,Nhập khẩu,"110,000 Km",Đen,7 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,20000000,2010
+37,Xe Honda Brio RS 2021,Honda,xe-honda-brio-rs-2021-4918991,Hatchback,Nhập khẩu,"5,800 Km",Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,28000000,2021
+38,Xe Honda City 1.5 2019,Honda,xe-honda-city-1.5-2019-4758465,Sedan,Lắp ráp trong nước,"61,000 Km",Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,40000000,2019
+39,Xe Lexus ES 250 2016,Lexus,xe-lexus-es-250-2016-4896990,Sedan,Nhập khẩu,"50,000 Km",Nâu,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1500000000,2016
+40,Xe Honda City 1.5 2019,Honda,xe-honda-city-1.5-2019-4758465,Sedan,Lắp ráp trong nước,"61,000 Km",Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,40000000,2019
+41,Xe Lexus ES 250 2016,Lexus,xe-lexus-es-250-2016-4896990,Sedan,Nhập khẩu,"50,000 Km",Nâu,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1500000000,2016
+42,Xe Toyota Corolla altis 1.8G AT 2013,Toyota,xe-toyota-corolla_altis-1.8g-at-2013-4922819,Sedan,Lắp ráp trong nước,"70,000 Km",Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2013
+43,Xe BMW 5 Series 528i GT 2016,BMW,xe-bmw-5_series-528i-gt-2016-4858002,Sedan,Nhập khẩu,"70,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1150000000,2016
+44,Xe LandRover Range Rover Autobiography LWB 5.0 2014,LandRover,xe-landrover-range_rover-autobiography-lwb-5.0-2014-4871493,SUV,Nhập khẩu,"60,000 Km",Trắng,4 chỗ,5.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3680000000,2014
+45,Xe Kia Morning Si AT 2017,Kia,xe-kia-morning-si-at-2017-4913112,Hatchback,Lắp ráp trong nước,"20,000 Km",Đỏ,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2017
+46,Xe Mazda 3 1.5 AT 2018,Mazda,xe-mazda-3-1.5-at-2018-4857477,Hatchback,Lắp ráp trong nước,"60,000 Km",Vàng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2018
+47,Xe Hyundai Creta Cao cấp 1.5 AT 2022,Hyundai,xe-hyundai-creta-cao-cap-1.5-at-2022-4908134,Crossover,Nhập khẩu,"18,000 Km",Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2022
+48,Xe Lexus ES 250 2021,Lexus,xe-lexus-es-250-2021-4905383,Sedan,Nhập khẩu,"17,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,2460000000,2021
+49,Xe Mini Cooper Clubman S 2020,Mini,xe-mini-cooper-clubman-s-2020-4782630,Hatchback,Nhập khẩu,"12,000 Km",Cam,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,2090000000,2020
+50,Xe Mercedes Benz GLC 200 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2022-4920760,SUV,Lắp ráp trong nước,"1,800 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2039000000,2022
+51,Xe Volkswagen Teramont 2.0 AT 2022,Volkswagen,xe-volkswagen-teramont-2.0-at-2022-4818054,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2499000000,2022
+52,Xe Mercedes Benz C class C200 Avantgarde 2022,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2022-4734757,Sedan,Lắp ráp trong nước,30 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1569000000,2022
+53,Xe Volkswagen Tiguan Allspace 2021,Volkswagen,xe-volkswagen-tiguan-allspace-2021-4818120,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1999000000,2021
+54,Xe Hyundai Tucson 2.0 ATH 2020,Hyundai,xe-hyundai-tucson-2.0-ath-2020-4883326,Crossover,Lắp ráp trong nước,"32,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2020
+55,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4908166,SUV,Lắp ráp trong nước,295 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1769000000,2022
+56,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4817572,SUV,Lắp ráp trong nước,"1,200 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2389000000,2022
+57,Xe Toyota Fortuner 2.4G MT 4x2 2017,Toyota,xe-toyota-fortuner-2.4g-mt-4x2-2017-4935717,SUV,Nhập khẩu,"68,000 Km",Bạc,8 chỗ,,diesel,Số tay,RFD - Dẫn động cầu sau,69000000,2017
+58,Xe Ford Everest Titanium 2.0L 4x2 AT 2019,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2019-4927810,SUV,Nhập khẩu,"52,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,79000000,2019
+59,Xe Ford EcoSport Titanium 1.0 EcoBoost 2019,Ford,xe-ford-ecosport-titanium-1.0-ecoboost-2019-4904080,SUV,Lắp ráp trong nước,"41,000 Km",Trắng,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2019
+60,Xe Ford Focus Trend 1.5L 2019,Ford,xe-ford-focus-trend-1.5l-2019-4890684,Hatchback,Lắp ráp trong nước,"41,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,72000000,2019
+61,Xe Ford Everest Titanium 2.0L 4x2 AT 2019,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2019-4929827,SUV,Nhập khẩu,"26,000 Km",Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,79000000,2019
+62,Xe Peugeot 3008 1.6 AT 2019,Peugeot,xe-peugeot-3008-1.6-at-2019-4935030,Crossover,Lắp ráp trong nước,"26,000 Km",Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2019
+63,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4881554,Sedan,Lắp ráp trong nước,"44,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2019
+64,Xe Ford Everest 2.0 Titanium 2018,Ford,xe-ford-everest-2.0-titanium-2018-4935713,SUV,Nhập khẩu,"18,000 Km",Đen,7 chỗ,,diesel,Số tự động,RFD - Dẫn động cầu sau,38000000,2018
+65,Xe Ford Everest 2.5L 4x2 AT 2010,Ford,xe-ford-everest-2.5l-4x2-at-2010-4897056,SUV,Lắp ráp trong nước,0 Km,Cát,8 chỗ,2.5 L,,Số tự động,RFD - Dẫn động cầu sau,75000000,2010
+66,Xe Toyota Prado TXL 2010,Toyota,xe-toyota-prado-txl-2010-4935702,SUV,Nhập khẩu,"12,000 Km",Đen,7 chỗ,,Xăng,Số tự động,4WD - Dẫn động 4 bánh,99000000,2010
+67,Xe LandRover Range Rover Sport HSE 2014,LandRover,xe-landrover-range_rover_sport-hse-2014-4934381,SUV,Nhập khẩu,"90,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,1796000000,2014
+68,Xe Mercedes Benz C class C250 2013,Mercedes Benz,xe-mercedes_benz-c_class-c250-2013-4934417,SUV,Lắp ráp trong nước,"80,000 Km",Vàng,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,28000000,2013
+69,Xe Kia Sorento 2.4 GAT Deluxe 2020,Kia,xe-kia-sorento-2.4-gat-deluxe-2020-4856839,SUV,Lắp ráp trong nước,"17,000 Km",Trắng,7 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,40000000,2020
+70,Xe Suzuki Swift 2015,Suzuki,xe-suzuki-swift--2015-4935687,Coupe,Lắp ráp trong nước,"42,268 Km",Trắng,4 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,15000000,2015
+71,Xe Mitsubishi Attrage Premium 1.2 CVT 2022,Mitsubishi,xe-mitsubishi-attrage-premium-1.2-cvt-2022-4279185,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2022
+72,Xe Daewoo Lacetti 2010,Daewoo,xe-daewoo-lacetti--2010-4935701,Sedan,Nhập khẩu,"130,668 Km",Đen,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,75000000,2010
+73,Xe Mazda CX5 2.5 AT 2WD 2019,Mazda,xe-mazda-cx5-2.5-at-2wd-2019-4779381,SUV,Lắp ráp trong nước,"32,000 Km",Đỏ,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2019
+74,Xe Ford EcoSport Titanium 1.5L AT 2017,Ford,xe-ford-ecosport-titanium-1.5l-at-2017-4915837,SUV,Lắp ráp trong nước,"54,000 Km",Bạc,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,26000000,2017
+75,Xe Honda HRV L 2021,Honda,xe-honda-hrv-l-2021-4915781,Crossover,Nhập khẩu,"16,000 Km",Đỏ,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2021
+76,Xe Toyota Hilux G 2014,Toyota,xe-toyota-hilux-g-2014-4935692,Truck,Nhập khẩu,"150,000 Km",Bạc,0 chỗ,,diesel,Số tay,4WD - Dẫn động 4 bánh,70000000,2014
+77,Xe Honda HRV L 2020,Honda,xe-honda-hrv-l-2020-4910177,Crossover,Nhập khẩu,"54,000 Km",Đỏ,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,76000000,2020
+78,Xe VinFast Lux A 2.0 Premium 2.0 AT 2021,VinFast,xe-vinfast-lux_a_2.0-premium-2.0-at-2021-4910173,Sedan,Lắp ráp trong nước,"13,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,36000000,2021
+79,Xe Kia Sorento DATH 2018,Kia,xe-kia-sorento-dath-2018-4912749,SUV,Lắp ráp trong nước,"46,000 Km",Đen,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,76000000,2018
+80,Xe Mitsubishi Outlander Sport 2.0 CVT Premium 2014,Mitsubishi,xe-mitsubishi-outlander_sport-2.0-cvt-premium-2014-4910169,SUV,Nhập khẩu,"106,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2014
+81,Xe Toyota Camry 2.5Q 2019,Toyota,xe-toyota-camry-2.5q-2019-4923050,Sedan,Nhập khẩu,"39,000 Km",Đen,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,78000000,2019
+82,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4929050,Sedan,Lắp ráp trong nước,"56,000 Km",Nâu,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,6000000,2019
+83,Xe Chevrolet Spark 2009,Chevrolet,xe-chevrolet-spark--2009-4935681,Hatchback,Lắp ráp trong nước,"326,528 Km",Bạc,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,2000000,2009
+84,Xe Kia Rondo GAT Deluxe 2020,Kia,xe-kia-rondo-gat-deluxe-2020-4842039,SUV,Lắp ráp trong nước,"40,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2020
+85,Xe Ford EcoSport Titanium 1.5L AT 2017,Ford,xe-ford-ecosport-titanium-1.5l-at-2017-4854401,SUV,Lắp ráp trong nước,"58,000 Km",Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2017
+86,Xe Kia Carens EXMT 2016,Kia,xe-kia-carens-exmt-2016-4913456,Crossover,Lắp ráp trong nước,"70,000 Km",Bạc,7 chỗ,2.0 L,,Số tay,FWD - Dẫn động cầu trước,95000000,2016
+87,Xe Toyota Innova 2.0E 2018,Toyota,xe-toyota-innova-2.0e-2018-4887057,Crossover,Lắp ráp trong nước,"50,000 Km",Đồng,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,75000000,2018
+88,Xe VinFast Lux SA 2.0 Plus 2.0 AT 2020,VinFast,xe-vinfast-lux_sa_2.0-plus-2.0-at-2020-4905749,SUV,Lắp ráp trong nước,"70,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,95000000,2020
+89,Xe Kia Morning 2011,Kia,xe-kia-morning--2011-4935678,Hatchback,Lắp ráp trong nước,10 Km,Xanh,0 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,85000000,2011
+90,Xe Kia Cerato 1.6 AT Luxury 2020,Kia,xe-kia-cerato-1.6-at-luxury-2020-4695102,Sedan,Lắp ráp trong nước,"26,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2020
+91,Xe Mazda CX5 2.5 2WD 2016,Mazda,xe-mazda-cx5-2.5-2wd-2016-4935684,Crossover,Lắp ráp trong nước,80 Km,Đỏ,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,89000000,2016
+92,Xe Kia Sorento GATH 2016,Kia,xe-kia-sorento-gath-2016-4892261,SUV,Lắp ráp trong nước,"90,000 Km",Nâu,7 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2016
+93,Xe Hyundai i10 2016,Hyundai,xe-hyundai-i10--2016-4935664,Hatchback,Nhập khẩu,4 Km,Trắng,0 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,99000000,2016
+94,Xe Mazda CX5 2.5 AT 2016,Mazda,xe-mazda-cx5-2.5-at-2016-4888079,SUV,Lắp ráp trong nước,"50,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2016
+95,Xe Kia Cerato 1.6 AT Luxury 2019,Kia,xe-kia-cerato-1.6-at-luxury-2019-4827050,Sedan,Lắp ráp trong nước,"46,000 Km",Đen,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2019
+96,Xe Kia Sorento Signature 2.5 AT AWD 2021,Kia,xe-kia-sorento-signature-2.5-at-awd-2021-4839509,SUV,Lắp ráp trong nước,"11,000 Km",Đen,7 chỗ,2.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,1055000000,2021
+97,Xe Kia Sorento DATH 2.2L 2WD 2014,Kia,xe-kia-sorento-dath-2.2l-2wd-2014-4929820,SUV,Lắp ráp trong nước,"100,000 Km",Nâu,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2014
+98,Xe Toyota Corolla altis 1.8G AT 2016,Toyota,xe-toyota-corolla_altis-1.8g-at-2016-4904102,Sedan,Lắp ráp trong nước,8 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,40000000,2016
+99,Xe Lexus RX 350 AWD 2011,Lexus,xe-lexus-rx-350-awd-2011-4595054,SUV,Nhập khẩu,"60,000 Km",Đen,5 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,1160000000,2011
+100,Xe Toyota Wigo 1.2 AT 2021,Toyota,xe-toyota-wigo-1.2-at-2021-4874550,Hatchback,Nhập khẩu,"10,000 Km",Trắng,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2021
+101,Xe Suzuki Swift Special 2016,Suzuki,xe-suzuki-swift-special-2016-4786086,Hatchback,Lắp ráp trong nước,"3,500 Km",Đỏ,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,18000000,2016
+102,Xe Subaru Forester 2.0i-L 2019,Subaru,xe-subaru-forester-2.0i-l-2019-4854665,SUV,Nhập khẩu,"35,000 Km",Ghi,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,75000000,2019
+103,Xe Toyota Fortuner 2.7V 4x2 AT 2013,Toyota,xe-toyota-fortuner-2.7v-4x2-at-2013-4922830,SUV,Lắp ráp trong nước,"80,000 Km",Bạc,8 chỗ,2.7 L,,Số tự động,RFD - Dẫn động cầu sau,59000000,2013
+104,Xe Mazda 3 1.5L Luxury 2022,Mazda,xe-mazda-3-1.5l-luxury-2022-4873504,Sedan,Lắp ráp trong nước,"3,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2022
+105,Xe Toyota Highlander LE 2.7 2015,Toyota,xe-toyota-highlander-le-2.7-2015-4899267,SUV,Nhập khẩu,"60,000 Km",Đen,7 chỗ,2.7 L,,Số tự động,FWD - Dẫn động cầu trước,1220000000,2015
+106,Xe Ford Focus Trend 1.5L 2017,Ford,xe-ford-focus-trend-1.5l-2017-4935619,Sedan,Lắp ráp trong nước,"26,000 Km",Đỏ,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,30000000,2017
+107,Xe Toyota Prado VX 2.7L 2021,Toyota,xe-toyota-prado-vx-2.7l-2021-4906333,SUV,Nhập khẩu,"26,000 Km",Đen,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,2450000000,2021
+108,Xe Toyota Camry 2.0G 2022,Toyota,xe-toyota-camry-2.0g-2022-4914955,Sedan,Nhập khẩu,"10,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2022
+109,Xe Hyundai Tucson 2.0 AT CRDi 2019,Hyundai,xe-hyundai-tucson-2.0-at-crdi-2019-4902231,Crossover,Lắp ráp trong nước,"32,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2019
+110,Xe Hyundai Tucson 2.0 ATH 2020,Hyundai,xe-hyundai-tucson-2.0-ath-2020-4853670,Crossover,Lắp ráp trong nước,"20,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2020
+111,Xe Mazda CX5 2.5 AT 2WD 2018,Mazda,xe-mazda-cx5-2.5-at-2wd-2018-4823856,SUV,Lắp ráp trong nước,"56,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2018
+112,Xe Toyota Camry 2.0Q 2022,Toyota,xe-toyota-camry-2.0q-2022-4918874,Sedan,Nhập khẩu,"6,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,1150000000,2022
+113,Xe Toyota Corolla Cross 1.8V 2021,Toyota,xe-toyota-corolla_cross-1.8v-2021-4868647,SUV,Nhập khẩu,"15,000 Km",Xanh,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2021
+114,Xe Toyota Camry 3.5Q 2010,Toyota,xe-toyota-camry-3.5q-2010-4918918,Sedan,Lắp ráp trong nước,"90,000 Km",Đen,5 chỗ,3.5 L,,Số tự động,FWD - Dẫn động cầu trước,69000000,2010
+115,Xe Toyota Raize G 1.0 CVT 2023,Toyota,xe-toyota-raize-g-1.0-cvt-2023-4817056,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2023
+116,Xe Toyota Veloz Cross Top 1.5 CVT 2023,Toyota,xe-toyota-veloz-cross-top-1.5-cvt-2023-4824018,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2023
+117,Xe Toyota Land Cruiser 3.5 V6 2023,Toyota,xe-toyota-land_cruiser-3.5-v6-2023-4930605,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,3.4 L,,Số tự động,AWD - 4 bánh toàn thời gian,4286000000,2023
+118,Xe Toyota Zace GL 2003,Toyota,xe-toyota-zace-gl-2003-4849529,SUV,Lắp ráp trong nước,"18,000 Km",Xanh,8 chỗ,1.8 L,,Số tay,RFD - Dẫn động cầu sau,30000000,2003
+119,Xe Suzuki Wagon R+ 1.0 MT 2001,Suzuki,xe-suzuki-wagon_r+-1.0-mt-2001-4917876,Wagon,Lắp ráp trong nước,"120,000 Km",Trắng,5 chỗ,1.0 L,,Số tay,FWD - Dẫn động cầu trước,5000000,2001
+120,Xe Mercedes Benz Maybach S400 2017,Mercedes Benz,xe-mercedes_benz-maybach-s400-2017-4898325,Sedan,Nhập khẩu,"35,000 Km",Đen,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3999000000,2017
+121,Xe Mitsubishi Triton 4x2 AT Mivec 2021,Mitsubishi,xe-mitsubishi-triton-4x2-at-mivec-2021-4832158,Bán tải / Pickup,Nhập khẩu,"31,000 Km",Xám,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,68000000,2021
+122,Xe Mitsubishi Jolie MB 2003,Mitsubishi,xe-mitsubishi-jolie-mb-2003-4916076,SUV,Lắp ráp trong nước,"20,000 Km",Bạc,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,9000000,2003
+123,Xe Mazda 626 1995,Mazda,xe-mazda-626--1995-4933902,Sedan,Lắp ráp trong nước,"20,000 Km",Xám,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,2000000,1995
+124,Xe Mercedes Benz C class C300 AMG 2021,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2021-4935663,Sedan,Lắp ráp trong nước,"18,000 Km",Xanh,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,1499000000,2021
+125,Xe Ford Focus Sport 1.5L 2019,Ford,xe-ford-focus-sport-1.5l-2019-4930068,Hatchback,Lắp ráp trong nước,"5,390 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,88000000,2019
+126,Xe Toyota Fortuner 2.7V 4x4 AT 2011,Toyota,xe-toyota-fortuner-2.7v-4x4-at-2011-4903318,SUV,Lắp ráp trong nước,"120,000 Km",Đen,8 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,0,2011
+127,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4917234,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Bạc,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,40000000,2023
+128,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4916857,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,40000000,2023
+129,Xe Mercedes Benz G class G63 2021,Mercedes Benz,xe-mercedes_benz-g_class-g63-2021-4935657,SUV,Nhập khẩu,"8,999 Km",Đen,5 chỗ,,Xăng,Số tự động,-,11000000000,2021
+130,Xe Hyundai Tucson 2.0 ATH 2017,Hyundai,xe-hyundai-tucson-2.0-ath-2017-4785320,Crossover,Lắp ráp trong nước,"68,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2017
+131,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4928488,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Ghi,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,79000000,2023
+132,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4928376,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,79000000,2023
+133,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4923107,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,79000000,2023
+134,Xe Ford Territory Trend 1.5 AT 2022,Ford,xe-ford-territory-trend-1.5-at-2022-4573544,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2022
+135,Xe Ford Territory 1.5L 2022,Ford,xe-ford-territory-1.5l-2022-4534722,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,55000000,2022
+136,Xe Mercedes Benz E class 300 AMG 2016,Mercedes Benz,xe-mercedes_benz-e_class-300-amg-2016-4935673,Sedan,Nhập khẩu,"57,000 Km",Đen,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,1395000000,2016
+137,Xe Peugeot 3008 1.6 AT 2019,Peugeot,xe-peugeot-3008-1.6-at-2019-4894693,Crossover,Lắp ráp trong nước,600 Km,Đen,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,79000000,2019
+138,Xe Toyota Corolla altis 1.8G AT 2015,Toyota,xe-toyota-corolla_altis-1.8g-at-2015-4895394,Sedan,Lắp ráp trong nước,680 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,23000000,2015
+139,Xe Toyota Camry 2.0E 2016,Toyota,xe-toyota-camry-2.0e-2016-4929874,Sedan,Lắp ráp trong nước,"68,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2016
+140,Xe Toyota Camry 2.0E 2016,Toyota,xe-toyota-camry-2.0e-2016-4929874,Sedan,Lắp ráp trong nước,"68,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2016
+141,Xe Toyota Prado VX 2.7L 2018,Toyota,xe-toyota-prado-vx-2.7l-2018-4858609,SUV,Nhập khẩu,"56,000 Km",Trắng,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,1999000000,2018
+142,Xe Nissan Terra V 2.5 AT 4WD 2019,Nissan,xe-nissan-terra-v-2.5-at-4wd-2019-4910537,SUV,Nhập khẩu,"40,000 Km",Trắng,7 chỗ,2.5 L,,Số tự động,4WD - Dẫn động 4 bánh,85000000,2019
+143,Xe Toyota RAV4 Limited 2.5 AT 2014,Toyota,xe-toyota-rav4-limited-2.5-at-2014-4824980,SUV,Nhập khẩu,"112,000 Km",Nâu,5 chỗ,2.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,55000000,2014
+144,Xe Kia Rio Premium 2015,Kia,xe-kia-rio-premium-2015-4935667,Hatchback,Nhập khẩu,"88,000 Km",Đỏ,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,95000000,2015
+145,Xe Mercedes Benz C class C200 Avantgarde 2008,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2008-4892021,Sedan,Lắp ráp trong nước,"96,000 Km",Đen,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,45000000,2008
+146,Xe Kia Morning SLX 1.0 AT 2005,Kia,xe-kia-morning-slx-1.0-at-2005-4727508,Hatchback,Nhập khẩu,138 Km,Bạc,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2005
+147,Xe Toyota Innova 2.0E 2019,Toyota,xe-toyota-innova-2.0e-2019-4879476,Crossover,Lắp ráp trong nước,72 Km,Cát,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,78000000,2019
+148,Xe Chevrolet Spark Duo Van 1.2 MT 2017,Chevrolet,xe-chevrolet-spark-duo-van-1.2-mt-2017-4926774,Van/Minivan,Lắp ráp trong nước,"88,000 Km",Xanh,2 chỗ,1.2 L,,Số tay,FWD - Dẫn động cầu trước,39000000,2017
+149,Xe Ford Focus Titanium 2.0 AT 2014,Ford,xe-ford-focus-titanium-2.0-at-2014-4935654,Sedan,Lắp ráp trong nước,"80,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,65000000,2014
+150,Xe Kia Morning 2009,Kia,xe-kia-morning--2009-4935647,Hatchback,Nhập khẩu,899 Km,Xanh,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,99000000,2009
+151,Xe Chevrolet Colorado High Country 2.5L 4x4 AT 2019,Chevrolet,xe-chevrolet-colorado-high-country-2.5l-4x4-at-2019-4863770,Bán tải / Pickup,Nhập khẩu,0 Km,Cam,5 chỗ,2.5 L,,Số tự động,4WD - Dẫn động 4 bánh,89000000,2019
+152,Xe Mercedes Benz Maybach S450 4Matic 2017,Mercedes Benz,xe-mercedes_benz-maybach-s450-4matic-2017-4704838,Sedan,Nhập khẩu,"50,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4950000000,2017
+153,Xe Lexus LX 570 Super Sport MBS 2020,Lexus,xe-lexus-lx-570-super-sport-mbs-2020-4845323,SUV,Nhập khẩu,"18,000 Km",Trắng,4 chỗ,5.7 L,,Số tự động,AWD - 4 bánh toàn thời gian,8950000000,2020
+154,Xe Honda HRV L 2021,Honda,xe-honda-hrv-l-2021-4852100,Crossover,Nhập khẩu,"21,000 Km",Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2021
+155,Xe Hyundai SantaFe MLX 2.0L 2009,Hyundai,xe-hyundai-santafe-mlx-2.0l-2009-4781002,SUV,Nhập khẩu,"150,000 Km",Bạc,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2009
+156,Xe VinFast VF8 Eco 2023,VinFast,xe-vinfast-vf8-eco-2023-4763290,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,7000000,2023
+157,Xe LandRover Range Rover HSE 3.0 2015,LandRover,xe-landrover-range_rover-hse-3.0-2015-4778618,SUV,Nhập khẩu,"65,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3150000000,2015
+158,Xe Mercedes Benz S class S500L 2013,Mercedes Benz,xe-mercedes_benz-s_class-s500l-2013-4866586,Sedan,Lắp ráp trong nước,"60,000 Km",Ghi,5 chỗ,4.7 L,,Số tự động,RFD - Dẫn động cầu sau,1690000000,2013
+159,Xe Mercedes Benz E class E250 2017,Mercedes Benz,xe-mercedes_benz-e_class-e250-2017-4868815,Sedan,Lắp ráp trong nước,"80,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1250000000,2017
+160,Xe LandRover Range Rover Sport Autobiography 3.0 2013,LandRover,xe-landrover-range_rover_sport-autobiography-3.0-2013-4922697,SUV,Nhập khẩu,"79,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1890000000,2013
+161,Xe VinFast Lux SA 2.0 Premium 2.0 AT 2021,VinFast,xe-vinfast-lux_sa_2.0-premium-2.0-at-2021-4869459,SUV,Lắp ráp trong nước,"30,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,35000000,2021
+162,Xe Lexus ES 250 2017,Lexus,xe-lexus-es-250-2017-4875648,Sedan,Nhập khẩu,"65,000 Km",Đen,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1480000000,2017
+163,Xe BMW Z4 sDrive30i M Sport 2021,BMW,xe-bmw-z4-sdrive30i-m-sport-2021-4890009,Convertible/Cabriolet,Nhập khẩu,"10,000 Km",Trắng,2 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2900000000,2021
+164,Xe Toyota Highlander 3.5 2007,Toyota,xe-toyota-highlander-3.5-2007-4890132,SUV,Nhập khẩu,"120,000 Km",Bạc,7 chỗ,3.5 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2007
+165,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4501247,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Cam,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,10000000,2023
+166,Xe Ford Territory Trend 1.5 AT 2023,Ford,xe-ford-territory-trend-1.5-at-2023-4669510,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2023
+167,Xe Nissan X trail 2.0 SL 2WD 2017,Nissan,xe-nissan-x_trail-2.0-sl-2wd-2017-4879600,SUV,Lắp ráp trong nước,"56,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2017
+168,Xe Toyota Fortuner 2.4G 4x2 AT 2020,Toyota,xe-toyota-fortuner-2.4g-4x2-at-2020-4660644,SUV,Lắp ráp trong nước,"48,000 Km",Bạc,7 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2020
+169,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4669501,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2023
+170,Xe Ford Ranger Raptor 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2023-4933350,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1299000000,2023
+171,Xe Mercedes Benz E class E180 2023,Mercedes Benz,xe-mercedes_benz-e_class-e180-2023-4934905,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1890000000,2023
+172,Xe Mercedes Benz E class E180 2023,Mercedes Benz,xe-mercedes_benz-e_class-e180-2023-4934901,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1890000000,2023
+173,Xe Mercedes Benz C class C300 AMG 2023,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2023-4934939,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1999000000,2023
+174,Xe Mercedes Benz S class S450L 2020,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2020-4927803,Sedan,Lắp ráp trong nước,"17,000 Km",Đen,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3300000000,2020
+175,Xe Mercedes Benz C class C300 AMG 2023,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2023-4934942,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1999000000,2023
+176,Xe Mercedes Benz C class C200 Avantgarde Plus 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-plus-2023-4934956,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1999000000,2023
+177,Xe Mercedes Benz GLS 450 4Matic 2022,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2022-4478284,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5229000000,2022
+178,Xe Kia Cerato 2.0 AT Premium 2020,Kia,xe-kia-cerato-2.0-at-premium-2020-4930707,Sedan,Lắp ráp trong nước,"12,999 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2020
+179,Xe Mercedes Benz C class C200 Avantgarde 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2023-4934962,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1469000000,2023
+180,Xe Kia Cerato 2.0 AT Premium 2020,Kia,xe-kia-cerato-2.0-at-premium-2020-4930707,Sedan,Lắp ráp trong nước,"12,999 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2020
+181,Xe Mercedes Benz C class C200 Avantgarde 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2023-4934962,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1469000000,2023
+182,Xe Mercedes Benz C class C200 Avantgarde Plus 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-plus-2023-4934952,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1789000000,2023
+183,Xe Ford Territory Titanium 1.5 AT 2023,Ford,xe-ford-territory-titanium-1.5-at-2023-4630635,SUV,Lắp ráp trong nước,0 Km,Nâu,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,49000000,2023
+184,Xe Mercedes Benz GLC 200 4Matic 2023,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2023-4934548,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1969000000,2023
+185,Xe Ford Ranger XLS 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x4-at-2023-4623533,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Ghi,5 chỗ,2.2 L,,Số tự động,4WD - Dẫn động 4 bánh,20000000,2023
+186,Xe Mercedes Benz GLC 200 4Matic 2023,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2023-4934554,SUV,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1969000000,2023
+187,Xe Ford Ranger Raptor 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2023-4933352,Bán tải / Pickup,Nhập khẩu,0 Km,Xám,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1299000000,2023
+188,Xe Mercedes Benz S class S400L 2016,Mercedes Benz,xe-mercedes_benz-s_class-s400l-2016-4639019,Sedan,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,2150000000,2016
+189,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4838801,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Xám,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,58000000,2023
+190,Xe Mercedes Benz GLC 300 4Matic 2018,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2018-4826256,SUV,Lắp ráp trong nước,"50,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1390000000,2018
+191,Xe Porsche Panamera 4 Executive 2021,Porsche,xe-porsche-panamera-4-executive-2021-4873520,Sedan,Nhập khẩu,"20,000 Km",Đen,4 chỗ,2.9 L,,Số tự động,RFD - Dẫn động cầu sau,6900000000,2021
+192,Xe Nissan Patrol 4.2 MT 2005,Nissan,xe-nissan-patrol-4.2-mt-2005-4821076,SUV,Nhập khẩu,"100,000 Km",Xanh,7 chỗ,4.2 L,,Số tay,4WD - Dẫn động 4 bánh,1150000000,2005
+193,Xe Mercedes Benz E class E200 2016,Mercedes Benz,xe-mercedes_benz-e_class-e200-2016-4868536,Sedan,Lắp ráp trong nước,"70,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1090000000,2016
+194,Xe Hyundai Stargazer Tiêu chuẩn 1.5 AT 2022,Hyundai,xe-hyundai-stargazer-tieu-chuan-1.5-at-2022-4870830,Van/Minivan,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2022
+195,Xe Hyundai SantaFe Cao cấp 2.2L HTRAC 2022,Hyundai,xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-4870960,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1205000000,2022
+196,Xe Hyundai Accent 1.4 AT Đặc Biệt 2023,Hyundai,xe-hyundai-accent-1.4-at-dac-biet-2023-4870716,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,5000000,2023
+197,Xe Kia K3 1.6 AT 2016,Kia,xe-kia-k3-1.6-at-2016-4868926,Sedan,Lắp ráp trong nước,"69,070 Km",Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2016
+198,Xe Mercedes Benz C class C300 AMG 2022,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2022-4493443,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2089000000,2022
+199,Xe VinFast Fadil Base 2021,VinFast,xe-vinfast-fadil-base-2021-4935639,Hatchback,Lắp ráp trong nước,"12,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,-,35000000,2021
+200,Xe Mitsubishi Attrage 1.2 MT 2022,Mitsubishi,xe-mitsubishi-attrage-1.2-mt-2022-4925230,Sedan,Nhập khẩu,"3,000 Km",Trắng,5 chỗ,1.2 L,,Số tay,FWD - Dẫn động cầu trước,65000000,2022
+201,Xe Mitsubishi Attrage 1.2 MT Eco 2018,Mitsubishi,xe-mitsubishi-attrage-1.2-mt-eco-2018-4923798,Sedan,Nhập khẩu,"7,000 Km",Trắng,5 chỗ,1.2 L,,Số tay,FWD - Dẫn động cầu trước,88000000,2018
+202,Xe Toyota Yaris 1.3E 2014,Toyota,xe-toyota-yaris-1.3e-2014-4843057,Hatchback,Nhập khẩu,"4,000 Km",Đỏ,5 chỗ,1.3 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2014
+203,Xe Mitsubishi Attrage 1.2MT 2017,Mitsubishi,xe-mitsubishi-attrage-1.2mt-2017-4896900,Sedan,Nhập khẩu,"8,000 Km",Trắng,5 chỗ,1.2 L,,Số tay,FWD - Dẫn động cầu trước,75000000,2017
+204,Xe Toyota Yaris 1.3 AT 2010,Toyota,xe-toyota-yaris-1.3-at-2010-4573207,Hatchback,Nhập khẩu,"8,000 Km",Bạc,5 chỗ,1.3 L,,Số tự động,FWD - Dẫn động cầu trước,83000000,2010
+205,Xe Hyundai Getz 1.1 MT 2010,Hyundai,xe-hyundai-getz-1.1-mt-2010-4864108,Hatchback,Nhập khẩu,"10,000 Km",Bạc,5 chỗ,1.1 L,,Số tay,FWD - Dẫn động cầu trước,52000000,2010
+206,Xe Hyundai Tucson 2.0 AT Tiêu chuẩn 2022,Hyundai,xe-hyundai-tucson-2.0-at-tieu-chuan-2022-4870122,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2022
+207,Xe Hyundai Tucson 2.0 ATH 2017,Hyundai,xe-hyundai-tucson-2.0-ath-2017-4845409,Crossover,Lắp ráp trong nước,"80,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2017
+208,Xe Kia Morning 2013,Kia,xe-kia-morning--2013-4935638,Hatchback,Nhập khẩu,"87,000 Km",Đỏ,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,99000000,2013
+209,Xe Peugeot 2008 GT Line 1.2 AT 2023,Peugeot,xe-peugeot-2008-gt-line-1.2-at-2023-4928095,Crossover,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,23000000,2023
+210,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4814585,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,54000000,2023
+211,Xe Honda Accord 1.5 AT 2023,Honda,xe-honda-accord-1.5-at-2023-4841927,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,1299000000,2023
+212,Xe Hyundai Elantra 2.0 AT 2019,Hyundai,xe-hyundai-elantra-2.0-at-2019-4762621,Sedan,Lắp ráp trong nước,"40,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2019
+213,Xe Lexus GX 460 2012,Lexus,xe-lexus-gx-460-2012-4806588,SUV,Nhập khẩu,"72,000 Km",Trắng,7 chỗ,4.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,2120000000,2012
+214,Xe Mercedes Benz V class V250 Luxury 2019,Mercedes Benz,xe-mercedes_benz-v_class-v250-luxury-2019-4882221,Van/Minivan,Nhập khẩu,"23,700 Km",Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2039000000,2019
+215,Xe Mitsubishi Xpander 1.5 AT 2023,Mitsubishi,xe-mitsubishi-xpander-1.5-at-2023-4654867,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,88000000,2023
+216,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4923218,SUV,Lắp ráp trong nước,"13,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2299000000,2022
+217,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4914434,SUV,Lắp ráp trong nước,"7,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1738000000,2022
+218,Xe Mercedes Benz GLC 200 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2022-4884131,SUV,Lắp ráp trong nước,"27,200 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1859000000,2022
+219,Xe Lexus RX 350L 2021,Lexus,xe-lexus-rx-350l-2021-4859251,SUV,Nhập khẩu,"30,100 Km",Đen,7 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,3699000000,2021
+220,Xe Toyota Innova G 2011,Toyota,xe-toyota-innova-g-2011-4903840,Crossover,Lắp ráp trong nước,"115,000 Km",Cát,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,79000000,2011
+221,Xe Mercedes Benz GLC 300 4Matic 2020,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2020-4857782,SUV,Lắp ráp trong nước,"22,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1989000000,2020
+222,Xe Hyundai i30 CW 1.6 AT 2009,Hyundai,xe-hyundai-i30-cw-1.6-at-2009-4924140,Hatchback,Nhập khẩu,0 Km,Bạc,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2009
+223,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4915579,SUV,Lắp ráp trong nước,"7,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1739000000,2022
+224,Xe Kia K3 Premium 2022,Kia,xe-kia-k3-premium-2022-4935635,Sedan,Lắp ráp trong nước,"8,000 Km",Đỏ,0 chỗ,,Xăng,Số tự động,-,39000000,2022
+225,Xe Lexus RX 300 2022,Lexus,xe-lexus-rx-300-2022-4858809,SUV,Nhập khẩu,"4,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3290000000,2022
+226,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4923857,SUV,Lắp ráp trong nước,"13,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2299000000,2022
+227,Xe Nissan X trail 2.5 SV 2016,Nissan,xe-nissan-x_trail-2.5-sv-2016-4935630,Crossover,Lắp ráp trong nước,"58,000 Km",Xanh,7 chỗ,,Xăng,Số tự động,4WD - Dẫn động 4 bánh,95000000,2016
+228,Xe Honda HRV L 2019,Honda,xe-honda-hrv-l-2019-4640661,Crossover,Nhập khẩu,"48,000 Km",Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2019
+229,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4931058,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Xám,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,5000000,2023
+230,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4930964,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2023
+231,Xe Ford Territory Titanium 1.5 AT 2023,Ford,xe-ford-territory-titanium-1.5-at-2023-4930957,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2023
+232,Xe Ford Transit Tiêu chuẩn 2023,Ford,xe-ford-transit-tieu-chuan-2023-4931162,Van/Minivan,Lắp ráp trong nước,0 Km,Đen,16 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,5000000,2023
+233,Xe Toyota Corolla Cross V 2021,Toyota,xe-toyota-corolla_cross-v-2021-4935627,Crossover,Nhập khẩu,"20,000 Km",Đỏ,5 chỗ,,Xăng,-,FWD - Dẫn động cầu trước,95000000,2021
+234,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4931070,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,38000000,2023
+235,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4931054,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,5000000,2023
+236,Xe Ford Ranger XLT 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-xlt-2.0l-4x4-at-2023-4931104,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,4WD - Dẫn động 4 bánh,0,2023
+237,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4930962,SUV,Lắp ráp trong nước,0 Km,Nâu,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2023
+238,Xe Lexus LS 460L 2007,Lexus,xe-lexus-ls-460l-2007-4841714,Sedan,Nhập khẩu,0 Km,Đen,5 chỗ,4.6 L,,Số tự động,RFD - Dẫn động cầu sau,99000000,2007
+239,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4931127,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1244000000,2023
+240,Xe Ford EcoSport Titanium 1.5L AT 2017,Ford,xe-ford-ecosport-titanium-1.5l-at-2017-4935463,SUV,Lắp ráp trong nước,"70,000 Km",Nâu,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,19000000,2017
+241,Xe Ford Everest Sport 2.0L 4x2 AT 2023,Ford,xe-ford-everest-sport-2.0l-4x2-at-2023-4931111,SUV,Nhập khẩu,0 Km,Bạc,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1178000000,2023
+242,Xe Ford EcoSport Titanium 1.5L AT 2018,Ford,xe-ford-ecosport-titanium-1.5l-at-2018-4933528,SUV,Lắp ráp trong nước,"48,000 Km",Đồng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,68000000,2018
+243,Xe Ford EcoSport Titanium 1.0Ecoboost 2019,Ford,xe-ford-ecosport-titanium-1.0ecoboost-2019-4933023,SUV,Lắp ráp trong nước,"41,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,95000000,2019
+244,Xe Ford Everest Titanium Plus 2.0L 4x4 AT 2023,Ford,xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-4931118,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1400000000,2023
+245,Xe Ford Everest Sport 2.0L 4x2 AT 2023,Ford,xe-ford-everest-sport-2.0l-4x2-at-2023-4931109,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1178000000,2023
+246,Xe Toyota Corolla Cross 1.8V 2020,Toyota,xe-toyota-corolla_cross-1.8v-2020-4903638,SUV,Nhập khẩu,"27,000 Km",Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2020
+247,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4931061,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,38000000,2023
+248,Xe Hyundai Tucson 2.0 AT Đặc biệt 2023,Hyundai,xe-hyundai-tucson-2.0-at-dac-biet-2023-4670355,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2023
+249,Xe VinFast VF8 Eco 2022,VinFast,xe-vinfast-vf8-eco-2022-4632382,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,68000000,2022
+250,Xe Mercedes Benz GLS 450 4Matic 2022,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2022-3956935,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5079000000,2022
+251,Xe Audi A8 L 4.2 Quattro 2010,Audi,xe-audi-a8-l-4.2-quattro-2010-4482789,Sedan,Nhập khẩu,"81,000 Km",Đen,5 chỗ,4.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,60000000,2010
+252,Xe Kia Carnival Luxury 2.2D 2022,Kia,xe-kia-carnival-luxury-2.2d-2022-2559761,Van/Minivan,Lắp ráp trong nước,0 Km,Trắng,8 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1289000000,2022
+253,Xe Mazda 3 3 Luxury 2021,Mazda,xe-mazda-3--3-luxury-2021-4935566,Sedan,Lắp ráp trong nước,"17,000 Km",Đỏ,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,5000000,2021
+254,Xe Hyundai Tucson 2.0 ATH 2016,Hyundai,xe-hyundai-tucson-2.0-ath-2016-4925868,Crossover,Nhập khẩu,"73,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2016
+255,Xe Chevrolet Captiva LTZ 2.4 AT 2015,Chevrolet,xe-chevrolet-captiva-ltz-2.4-at-2015-4823630,SUV,Lắp ráp trong nước,"70,000 Km",Đỏ,7 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2015
+256,Xe Hyundai Tucson 2.0 AT CRDi 2019,Hyundai,xe-hyundai-tucson-2.0-at-crdi-2019-4693041,Crossover,Lắp ráp trong nước,"28,000 Km",Cát,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2019
+257,Xe Chevrolet Cruze LTZ 1.8L 2017,Chevrolet,xe-chevrolet-cruze-ltz-1.8l-2017-4923820,Sedan,Lắp ráp trong nước,"70,000 Km",Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2017
+258,Xe Hyundai Veracruz 3.0 V6 2007,Hyundai,xe-hyundai-veracruz-3.0-v6-2007-4643458,SUV,Nhập khẩu,"110,000 Km",Xanh,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,35000000,2007
+259,Xe Mitsubishi Zinger GLS 2.4 MT 2009,Mitsubishi,xe-mitsubishi-zinger-gls-2.4-mt-2009-4883182,SUV,Lắp ráp trong nước,"120,000 Km",Xám,8 chỗ,2.4 L,,Số tay,FWD - Dẫn động cầu trước,55000000,2009
+260,Xe Honda Civic G 1.8 AT 2019,Honda,xe-honda-civic-g-1.8-at-2019-4925119,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2019
+261,Xe Kia Sportage 1.6 Turbo AWD 2022,Kia,xe-kia-sportage-1.6-turbo-awd-2022-4932247,SUV,Lắp ráp trong nước,"6,600 Km",Đen,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,99000000,2022
+262,Xe Kia Morning SLX mt sport 2013,Kia,xe-kia-morning-slx-mt-sport-2013-4931696,Hatchback,Nhập khẩu,"68,000 Km",Bạc,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,25000000,2013
+263,Xe Hyundai Kona 2.0 ATH 2019,Hyundai,xe-hyundai-kona-2.0-ath-2019-4931858,Crossover,Lắp ráp trong nước,"18,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2019
+264,Xe Mercedes Benz C class C200 2017,Mercedes Benz,xe-mercedes_benz-c_class-c200-2017-4876090,Sedan,Lắp ráp trong nước,"61,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2017
+265,Xe Kia Rio 1.4 AT 2015,Kia,xe-kia-rio-1.4-at-2015-4839122,Hatchback,Nhập khẩu,"103,215 Km",Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,12000000,2015
+266,Xe Ford Escape XLT 2.3L 4x4 AT 2011,Ford,xe-ford-escape-xlt-2.3l-4x4-at-2011-4693524,SUV,Lắp ráp trong nước,"130,000 Km",Cát,5 chỗ,2.3 L,,Số tự động,4WD - Dẫn động 4 bánh,35000000,2011
+267,Xe Hyundai Accent 1.4 ATH 2018,Hyundai,xe-hyundai-accent-1.4-ath-2018-4639962,Sedan,Lắp ráp trong nước,"54,000 Km",Nâu,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2018
+268,Xe Kia Morning Si MT 2016,Kia,xe-kia-morning-si-mt-2016-4931707,Hatchback,Lắp ráp trong nước,0 Km,Bạc,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,45000000,2016
+269,Xe Mazda 2 1.5 AT 2018,Mazda,xe-mazda-2-1.5-at-2018-4902585,Hatchback,Lắp ráp trong nước,"48,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2018
+270,Xe Hyundai i10 Grand 1.2 AT 2020,Hyundai,xe-hyundai-i10-grand-1.2-at-2020-4902557,Sedan,Lắp ráp trong nước,"15,000 Km",Đỏ,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2020
+271,Xe Lexus ES 250 2017,Lexus,xe-lexus-es-250-2017-4853671,Sedan,Nhập khẩu,"39,000 Km",Cát,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1470000000,2017
+272,Xe Toyota Corolla altis 1.8G 2017,Toyota,xe-toyota-corolla_altis-1.8g-2017-4935610,Sedan,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,65000000,2017
+273,Xe Mazda CX5 2.0 AT 2018,Mazda,xe-mazda-cx5-2.0-at-2018-4908750,SUV,Lắp ráp trong nước,"66,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2018
+274,Xe Ford Ranger XLS 2.2L 4x2 MT 2016,Ford,xe-ford-ranger-xls-2.2l-4x2-mt-2016-4593662,Bán tải / Pickup,Nhập khẩu,"68,500 Km",Xanh,5 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,62000000,2016
+275,Xe Toyota Corolla Cross 1.8G 2020,Toyota,xe-toyota-corolla_cross-1.8g-2020-4922807,SUV,Nhập khẩu,"33,000 Km",Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2020
+276,Xe Ford EcoSport Titanium 1.0 EcoBoost 2018,Ford,xe-ford-ecosport-titanium-1.0-ecoboost-2018-4923858,SUV,Lắp ráp trong nước,"16,001 Km",Nâu,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,6000000,2018
+277,Xe Mercedes Benz GLC 200 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2022-4935168,SUV,Lắp ráp trong nước,"17,000 Km",Đỏ,5 chỗ,,Xăng,Số tự động,-,1859000000,2022
+278,Xe Bentley Bentayga Mulliner 2019,Bentley,xe-bentley-bentayga-mulliner-2019-4321180,SUV,Nhập khẩu,"36,000 Km",Đen,4 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,13500000000,2019
+279,Xe Peugeot 5008 1.6 AT 2018,Peugeot,xe-peugeot-5008-1.6-at-2018-4934308,SUV,Lắp ráp trong nước,"70,000 Km",Xanh,7 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2018
+280,Xe Ford Ranger Raptor 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2023-4903218,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1290000000,2023
+281,Xe Mercedes Benz GLS 450 4Matic 2023,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2023-4898541,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5249000000,2023
+282,Xe Volvo XC90 Recharge T8 AWD 2022,Volvo,xe-volvo-xc90-recharge-t8-awd-2022-3512093,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4650000000,2022
+283,Xe BMW 5 Series 530i M Sport 2022,BMW,xe-bmw-5_series-530i-m-sport-2022-4872211,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,3229000000,2022
+284,Xe Mercedes Benz GLC 200 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2022-4935200,SUV,Lắp ráp trong nước,"7,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,-,1739000000,2022
+285,Xe Mercedes Benz E class E200 2019,Mercedes Benz,xe-mercedes_benz-e_class-e200-2019-4569203,Sedan,Lắp ráp trong nước,"39,900 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1499000000,2019
+286,Xe Hyundai Creta Đặc biệt 1.5 AT 2023,Hyundai,xe-hyundai-creta-dac-biet-1.5-at-2023-4670366,Crossover,Nhập khẩu,0 Km,Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2023
+287,Xe Hyundai Creta Đặc biệt 1.5 AT 2022,Hyundai,xe-hyundai-creta-dac-biet-1.5-at-2022-4920342,Crossover,Nhập khẩu,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2022
+288,Xe Toyota Vios G 1.5 CVT 2021,Toyota,xe-toyota-vios-g-1.5-cvt-2021-4708592,Sedan,Lắp ráp trong nước,"30,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2021
+289,Xe VinFast VF8 Eco 2022,VinFast,xe-vinfast-vf8-eco-2022-4736071,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,16000000,2022
+290,Xe VinFast VF8 Eco 2023,VinFast,xe-vinfast-vf8-eco-2023-4815055,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,77000000,2023
+291,Xe Hyundai Creta Tiêu chuẩn 1.5 AT 2022,Hyundai,xe-hyundai-creta-tieu-chuan-1.5-at-2022-2545177,Crossover,Nhập khẩu,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,69000000,2022
+292,Xe Honda City 1.5 2020,Honda,xe-honda-city-1.5-2020-4733418,Sedan,Lắp ráp trong nước,"32,500 Km",Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,96000000,2020
+293,Xe Ford Fiesta S 1.0AT Ecoboost 2016,Ford,xe-ford-fiesta-s-1.0at-ecoboost-2016-4357374,Hatchback,Lắp ráp trong nước,"58,100 Km",Đỏ,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,66000000,2016
+294,Xe Mercedes Benz E class E200 Exclusive 2023,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2023-4934889,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2330000000,2023
+295,Xe Honda HRV RS 2023,Honda,xe-honda-hrv-rs-2023-4435460,Crossover,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,71000000,2023
+296,Xe Mercedes Benz E class E180 2023,Mercedes Benz,xe-mercedes_benz-e_class-e180-2023-4934898,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1890000000,2023
+297,Xe Mini Cooper 3Dr 2014,Mini,xe-mini-cooper-3dr-2014-4834993,Coupe,Nhập khẩu,"58,000 Km",Vàng,4 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2014
+298,Xe Mercedes Benz E class E180 2023,Mercedes Benz,xe-mercedes_benz-e_class-e180-2023-4934910,Sedan,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1890000000,2023
+299,Xe Mercedes Benz C class C300 AMG 2023,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2023-4934946,Sedan,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1999000000,2023
+300,Xe Mercedes Benz C class C200 Avantgarde 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2023-4934961,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1469000000,2023
+301,Xe Mazda 3 1.5 AT 2016,Mazda,xe-mazda-3-1.5-at-2016-4924385,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2016
+302,Xe Hyundai Elantra 2.0 AT 2022,Hyundai,xe-hyundai-elantra-2.0-at-2022-4932177,Sedan,Lắp ráp trong nước,"9,400 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2022
+303,Xe Mazda 3 1.5L Luxury 2022,Mazda,xe-mazda-3-1.5l-luxury-2022-4909243,Sedan,Lắp ráp trong nước,"48,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2022
+304,Xe Honda CRV 2.4 AT 2015,Honda,xe-honda-crv-2.4-at-2015-4931626,SUV,Lắp ráp trong nước,"74,888 Km",Ghi,5 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2015
+305,Xe Honda Accord 1.5 Turbo 2020,Honda,xe-honda-accord-1.5-turbo-2020-4935584,Sedan,Nhập khẩu,"45,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,80000000,2020
+306,Xe Toyota Yaris 1.5G 2017,Toyota,xe-toyota-yaris-1.5g-2017-4858825,Hatchback,Nhập khẩu,"40,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2017
+307,Xe Kia Rio 1.4 AT 2015,Kia,xe-kia-rio-1.4-at-2015-4930151,Hatchback,Nhập khẩu,"71,000 Km",Đỏ,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2015
+308,Xe Hyundai Tucson 2.0 AT CRDi 2020,Hyundai,xe-hyundai-tucson-2.0-at-crdi-2020-4930166,Crossover,Lắp ráp trong nước,"34,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2020
+309,Xe Mazda CX5 2.0 AT AWD 2014,Mazda,xe-mazda-cx5-2.0-at-awd-2014-4930181,SUV,Lắp ráp trong nước,"71,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5000000,2014
+310,Xe Volkswagen Polo 1.6 AT 2018,Volkswagen,xe-volkswagen-polo-1.6-at-2018-4919303,Hatchback,Nhập khẩu,"25,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2018
+311,Xe Suzuki XL7 1.5 AT 2021,Suzuki,xe-suzuki-xl7-1.5-at-2021-4853368,SUV,Nhập khẩu,"15,000 Km",Xanh,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2021
+312,Xe Mercedes Benz E class E200 2019,Mercedes Benz,xe-mercedes_benz-e_class-e200-2019-4773505,Sedan,Lắp ráp trong nước,"36,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1465000000,2019
+313,Xe Bentley Flying Spur W12 2013,Bentley,xe-bentley-flying_spur-w12-2013-4390635,Sedan,Nhập khẩu,"38,860 Km",Trắng,5 chỗ,6.0 L,,Số tự động,RFD - Dẫn động cầu sau,7500000000,2013
+314,Xe Daewoo Lacetti SE 2011,Daewoo,xe-daewoo-lacetti-se-2011-4504081,Sedan,Nhập khẩu,"60,000 Km",Ghi,5 chỗ,1.6 L,,Số tay,FWD - Dẫn động cầu trước,50000000,2011
+315,Xe Kia Carnival Premium 2.2D 2023,Kia,xe-kia-carnival-premium-2.2d-2023-4492873,Van/Minivan,Lắp ráp trong nước,0 Km,Đen,8 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1369000000,2023
+316,Xe Mercedes Benz GLC 250 4Matic 2018,Mercedes Benz,xe-mercedes_benz-glc-250-4matic-2018-4903359,SUV,Lắp ráp trong nước,"39,500 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1399000000,2018
+317,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4859607,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1814000000,2022
+318,Xe Kia Seltos Premium 1.4 AT 2021,Kia,xe-kia-seltos-premium-1.4-at-2021-4847443,Crossover,Lắp ráp trong nước,"14,000 Km",Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2021
+319,Xe Mazda 6 Deluxe 2.0 AT 2019,Mazda,xe-mazda-6-deluxe-2.0-at-2019-4917446,Sedan,Lắp ráp trong nước,"66,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2019
+320,Xe Nissan Navara EL A-IVI 2.5 AT 2WD 2020,Nissan,xe-nissan-navara-el-a-ivi-2.5-at-2wd-2020-4920151,Bán tải / Pickup,Nhập khẩu,"21,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2020
+321,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4877889,Sedan,Lắp ráp trong nước,"30,450 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2019
+322,Xe Ford Ranger XLS 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x4-at-2023-4864811,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.2 L,,Số tự động,4WD - Dẫn động 4 bánh,26000000,2023
+323,Xe Ford Ranger XLS 2.0L 4x2 MT 2022,Ford,xe-ford-ranger-xls-2.0l-4x2-mt-2022-4928536,Bán tải / Pickup,Lắp ráp trong nước,"4,500 Km",Đỏ,5 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,65000000,2022
+324,Xe Hyundai SantaFe Premium 2021,Hyundai,xe-hyundai-santafe-premium-2021-4935581,SUV,Lắp ráp trong nước,"18,000 Km",Trắng,7 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,1030000000,2021
+325,Xe Ford Ranger Wildtrak 3.2L 4x4 AT 2016,Ford,xe-ford-ranger-wildtrak-3.2l-4x4-at-2016-4840975,Bán tải / Pickup,Nhập khẩu,"73,000 Km",Cam,5 chỗ,3.2 L,,Số tự động,4WD - Dẫn động 4 bánh,54000000,2016
+326,Xe Toyota Vios 1.5E CVT 2020,Toyota,xe-toyota-vios-1.5e-cvt-2020-4880804,Sedan,Lắp ráp trong nước,"15,000 Km",Cát,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2020
+327,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4917635,Sedan,Lắp ráp trong nước,"51,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2019
+328,Xe BMW 5 Series 528i GT 2016,BMW,xe-bmw-5_series-528i-gt-2016-4920267,Sedan,Nhập khẩu,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1130000000,2016
+329,Xe Mercedes Benz E class E300 2011,Mercedes Benz,xe-mercedes_benz-e_class-e300-2011-4927322,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,45000000,2011
+330,Xe Peugeot 5008 Allure 1.6 AT 2020,Peugeot,xe-peugeot-5008-allure-1.6-at-2020-4851796,SUV,Lắp ráp trong nước,"50,000 Km",Trắng,7 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2020
+331,Xe Honda Civic 1.5L Vtec Turbo 2018,Honda,xe-honda-civic-1.5l-vtec-turbo-2018-4770557,Sedan,Nhập khẩu,"47,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2018
+332,Xe Toyota Vios 1.5E CVT 2017,Toyota,xe-toyota-vios-1.5e-cvt-2017-4928425,Sedan,Lắp ráp trong nước,"70,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2017
+333,Xe Chevrolet Trax 1.4 LT 2017,Chevrolet,xe-chevrolet-trax-1.4-lt-2017-4918310,SUV,Nhập khẩu,"70,000 Km",Xanh,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2017
+334,Xe Mitsubishi Zinger GLS 2.4 AT 2010,Mitsubishi,xe-mitsubishi-zinger-gls-2.4-at-2010-4885796,SUV,Lắp ráp trong nước,"120,000 Km",Đen,8 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2010
+335,Xe Toyota Camry 3.0V 2003,Toyota,xe-toyota-camry-3.0v-2003-4903984,Sedan,Lắp ráp trong nước,"138,506 Km",Ghi,5 chỗ,3.0 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2003
+336,Xe Mercedes Benz E class E200 2019,Mercedes Benz,xe-mercedes_benz-e_class-e200-2019-4919413,Sedan,Lắp ráp trong nước,"45,898 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1435000000,2019
+337,Xe Mazda 6 Luxury 2.0 AT 2019,Mazda,xe-mazda-6-luxury-2.0-at-2019-4929358,Sedan,Lắp ráp trong nước,"33,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,51000000,2019
+338,Xe Kia Sorento GATH 2018,Kia,xe-kia-sorento-gath-2018-4679953,SUV,Lắp ráp trong nước,1 Km,Xanh,7 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2018
+339,Xe Kia Sedona 2.2L DATH 2016,Kia,xe-kia-sedona-2.2l-dath-2016-4919992,Van/Minivan,Lắp ráp trong nước,"90,000 Km",Đen,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2016
+340,Xe Mercedes Benz GLC 300 4Matic 2021,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2021-4857863,SUV,Lắp ráp trong nước,"22,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1989000000,2021
+341,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4903367,SUV,Lắp ráp trong nước,"8,800 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1739000000,2022
+342,Xe Ford Ranger XLS 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x4-at-2023-4859557,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Nâu,5 chỗ,2.2 L,,Số tự động,4WD - Dẫn động 4 bánh,16000000,2023
+343,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4531291,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,65000000,2023
+344,Xe Lexus ES 250 2018,Lexus,xe-lexus-es-250-2018-4897766,Sedan,Nhập khẩu,"22,000 Km",Xanh,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1720000000,2018
+345,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4881999,Sedan,Lắp ráp trong nước,"43,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2019
+346,Xe Mazda 6 2.0L Premium 2017,Mazda,xe-mazda-6-2.0l-premium-2017-4770032,Sedan,Lắp ráp trong nước,"48,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2017
+347,Xe Toyota Yaris 1.3G 2015,Toyota,xe-toyota-yaris-1.3g-2015-4787960,Hatchback,Nhập khẩu,"59,000 Km",Trắng,5 chỗ,1.3 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2015
+348,Xe Toyota Camry 2.5Q 2014,Toyota,xe-toyota-camry-2.5q-2014-4743805,Sedan,Lắp ráp trong nước,"58,000 Km",Đen,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,79000000,2014
+349,Xe Mazda 3 1.5 AT 2016,Mazda,xe-mazda-3-1.5-at-2016-4848961,Hatchback,Lắp ráp trong nước,"69,000 Km",Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,38000000,2016
+350,Xe Porsche Macan 2.0 2022,Porsche,xe-porsche-macan-2.0-2022-4926231,SUV,Nhập khẩu,"9,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3650000000,2022
+351,Xe VinFast Fadil 1.4 AT Plus 2020,VinFast,xe-vinfast-fadil-1.4-at-plus-2020-4929379,Hatchback,Lắp ráp trong nước,"40,000 Km",Đỏ,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,28000000,2020
+352,Xe Kia Sorento Signature 2.2 AT AWD 2020,Kia,xe-kia-sorento-signature-2.2-at-awd-2020-4896241,SUV,Lắp ráp trong nước,"30,000 Km",Đen,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1080000000,2020
+353,Xe Peugeot 3008 Allure 1.6 AT 2020,Peugeot,xe-peugeot-3008-allure-1.6-at-2020-4929264,Crossover,Lắp ráp trong nước,"46,000 Km",Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2020
+354,Xe Toyota Wigo 1.2G AT 2019,Toyota,xe-toyota-wigo-1.2g-at-2019-4905240,Hatchback,Nhập khẩu,"20,000 Km",Trắng,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2019
+355,Xe Mercedes Benz GLA class GLA 250 4Matic 2017,Mercedes Benz,xe-mercedes_benz-gla_class-gla-250-4matic-2017-4886243,SUV,Nhập khẩu,"56,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,80000000,2017
+356,Xe Kia Morning GT-Line 2021,Kia,xe-kia-morning-gt-line-2021-4927302,Hatchback,Lắp ráp trong nước,"31,000 Km",Cam,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2021
+357,Xe Mazda 3 1.5L Luxury 2022,Mazda,xe-mazda-3-1.5l-luxury-2022-4871318,Sedan,Lắp ráp trong nước,"40,000 Km",Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2022
+358,Xe Mazda BT50 Deluxe 2.2L 4x2 AT 2021,Mazda,xe-mazda-bt50-deluxe-2.2l-4x2-at-2021-4924327,Bán tải / Pickup,Nhập khẩu,"26,000 Km",Xanh,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,99000000,2021
+359,Xe Mitsubishi Triton 4x2 AT 2022,Mitsubishi,xe-mitsubishi-triton-4x2-at-2022-4450845,Bán tải / Pickup,Nhập khẩu,0 Km,Đen,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2022
+360,Xe VinFast VF8 Eco 2022,VinFast,xe-vinfast-vf8-eco-2022-4736133,SUV,Lắp ráp trong nước,0 Km,Cam,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,16000000,2022
+361,Xe Ford Fiesta S 1.0AT Ecoboost 2016,Ford,xe-ford-fiesta-s-1.0at-ecoboost-2016-4818819,Hatchback,Lắp ráp trong nước,"42,592 Km",Đỏ,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2016
+362,Xe Maserati Quattroporte 3.0 V6 2016,Maserati,xe-maserati-quattroporte-3.0-v6-2016-4844316,Sedan,Nhập khẩu,"21,000 Km",Xanh,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3350000000,2016
+363,Xe LandRover Range Rover Velar R-Dynamic SE 2.0 2021,LandRover,xe-landrover-range_rover_velar-r-dynamic-se-2.0-2021-3082618,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5090000000,2021
+364,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-3855679,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2569000000,2022
+365,Xe Hyundai Tucson 2.0 ATH 2019,Hyundai,xe-hyundai-tucson-2.0-ath-2019-4727224,Crossover,Lắp ráp trong nước,"50,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2019
+366,Xe VinFast VF8 Eco 2023,VinFast,xe-vinfast-vf8-eco-2023-4815044,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,77000000,2023
+367,Xe Hyundai SantaFe 2019,Hyundai,xe-hyundai-santafe--2019-4935592,SUV,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,4WD - Dẫn động 4 bánh,95000000,2019
+368,Xe Hyundai i10 1.2 AT 2023,Hyundai,xe-hyundai-i10-1.2-at-2023-4841162,Hatchback,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,18000000,2023
+369,Xe Mazda cx3 Premium 1.5 AT 2021,Mazda,xe-mazda-cx3-premium-1.5-at-2021-4925356,Crossover,Nhập khẩu,886 Km,Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,36000000,2021
+370,Xe Ford Everest Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-everest-wildtrak-2.0l-4x4-at-2023-4920469,SUV,Nhập khẩu,0 Km,Vàng,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1499000000,2023
+371,Xe Mazda 2 1.5 AT 2016,Mazda,xe-mazda-2-1.5-at-2016-4927005,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2016
+372,Xe Honda CRV L 2018,Honda,xe-honda-crv-l-2018-4836098,SUV,Nhập khẩu,"40,000 Km",Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2018
+373,Xe Kia Sorento DATH 2017,Kia,xe-kia-sorento-dath-2017-4903753,SUV,Lắp ráp trong nước,"55,000 Km",Xanh,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2017
+374,Xe Peugeot 408 Premium 2.0 AT 2014,Peugeot,xe-peugeot-408-premium-2.0-at-2014-4896729,Sedan,Lắp ráp trong nước,"101,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2014
+375,Xe Ford EcoSport Titanium 1.5L AT 2015,Ford,xe-ford-ecosport-titanium-1.5l-at-2015-4871368,SUV,Lắp ráp trong nước,"56,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2015
+376,Xe Mitsubishi Outlander 2.0 CVT Premium 2020,Mitsubishi,xe-mitsubishi-outlander-2.0-cvt-premium-2020-4914377,SUV,Lắp ráp trong nước,"42,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2020
+377,Xe BMW 3 Series 328i Gran Turismo 2015,BMW,xe-bmw-3_series-328i-gran-turismo-2015-4935589,Sedan,Nhập khẩu,"34,000 Km",Vàng,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,99000000,2015
+378,Xe Mitsubishi Outlander 2.0 CVT 2018,Mitsubishi,xe-mitsubishi-outlander-2.0-cvt-2018-4914345,SUV,Lắp ráp trong nước,"41,000 Km",Xám,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2018
+379,Xe Mitsubishi Pajero Sport D 4x2 MT 2017,Mitsubishi,xe-mitsubishi-pajero-sport-d-4x2-mt-2017-4914166,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.5 L,,Số tay,RFD - Dẫn động cầu sau,39000000,2017
+380,Xe Toyota Yaris 1.5G 2017,Toyota,xe-toyota-yaris-1.5g-2017-4737994,Hatchback,Nhập khẩu,"41,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2017
+381,Xe Toyota Sienna LE 3.5 2011,Toyota,xe-toyota-sienna-le-3.5-2011-4547898,Van/Minivan,Nhập khẩu,"55,000 Km",Vàng,7 chỗ,3.5 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2011
+382,Xe Mitsubishi Outlander Premium 2.0 CVT 2021,Mitsubishi,xe-mitsubishi-outlander-premium-2.0-cvt-2021-4904151,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,8000000,2021
+383,Xe Mazda CX5 2.0 AT 2015,Mazda,xe-mazda-cx5-2.0-at-2015-4815733,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2015
+384,Xe VinFast VF8 Plus 2023,VinFast,xe-vinfast-vf8-plus-2023-4815120,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,57000000,2023
+385,Xe Ford Fiesta S 1.0AT Ecoboost 2016,Ford,xe-ford-fiesta-s-1.0at-ecoboost-2016-4915346,Hatchback,Lắp ráp trong nước,"58,197 Km",Đỏ,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,69000000,2016
+386,Xe Mercedes Benz E class E200 Exclusive 2021,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2021-4890034,Sedan,Lắp ráp trong nước,"22,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1999000000,2021
+387,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4779763,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1276000000,2023
+388,Xe Mitsubishi Xpander Premium 1.5 AT 2022,Mitsubishi,xe-mitsubishi-xpander-premium-1.5-at-2022-4450877,SUV,Nhập khẩu,0 Km,Nâu,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2022
+389,Xe Mercedes Benz S class S450L 2020,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2020-4898297,Sedan,Lắp ráp trong nước,"22,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3250000000,2020
+390,Xe Toyota Camry 2.5Q 2020,Toyota,xe-toyota-camry-2.5q-2020-4921515,Sedan,Nhập khẩu,"390,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1050000000,2020
+391,Xe Lexus RX 350 2019,Lexus,xe-lexus-rx-350-2019-4932752,SUV,Nhập khẩu,"42,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,4WD - Dẫn động 4 bánh,3420000000,2019
+392,Xe VinFast Lux A 2.0 Plus 2.0 AT 2020,VinFast,xe-vinfast-lux_a_2.0-plus-2.0-at-2020-4910860,Sedan,Lắp ráp trong nước,"20,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,55000000,2020
+393,Xe BMW 3 Series 320i 2016,BMW,xe-bmw-3_series-320i-2016-4873492,Sedan,Nhập khẩu,"53,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,95000000,2016
+394,Xe Mercedes Benz GLC 300 4Matic 2018,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2018-4885544,SUV,Lắp ráp trong nước,"50,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1490000000,2018
+395,Xe Toyota Prado VX 2.7L 2018,Toyota,xe-toyota-prado-vx-2.7l-2018-4930456,SUV,Nhập khẩu,"50,000 Km",Đen,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,1888000000,2018
+396,Xe Mazda CX5 2.0 Premium 2020,Mazda,xe-mazda-cx5-2.0-premium-2020-4931971,SUV,Lắp ráp trong nước,"19,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,88000000,2020
+397,Xe Peugeot 3008 GT 2022,Peugeot,xe-peugeot-3008-gt-2022-4884873,Crossover,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,1209000000,2022
+398,Xe Ford Focus Trend 1.5L 2019,Ford,xe-ford-focus-trend-1.5l-2019-4877473,Hatchback,Lắp ráp trong nước,"45,000 Km",Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2019
+399,Xe Mercedes Benz GLC 300 2021,Mercedes Benz,xe-mercedes_benz-glc-300-2021-4933779,SUV,Lắp ráp trong nước,"10,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,2068000000,2021
+400,Xe Mercedes Benz GLC 300 2021,Mercedes Benz,xe-mercedes_benz-glc-300-2021-4933779,SUV,Lắp ráp trong nước,"10,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,2068000000,2021
+401,Xe Mercedes Benz E class E200 2018,Mercedes Benz,xe-mercedes_benz-e_class-e200-2018-4934868,Sedan,Lắp ráp trong nước,"50,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1320000000,2018
+402,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4669498,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2023
+403,Xe Toyota Camry 2.4G 2010,Toyota,xe-toyota-camry-2.4g-2010-4935356,Sedan,Lắp ráp trong nước,"120,000 Km",Đen,4 chỗ,,Xăng,Số tự động,-,92000000,2010
+404,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4935180,SUV,Lắp ráp trong nước,"13,000 Km",Xanh,5 chỗ,,Xăng,Số tự động,-,2299000000,2022
+405,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4923221,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2023
+406,Xe BMW 3 Series 320i 2018,BMW,xe-bmw-3_series-320i-2018-4581795,Sedan,Nhập khẩu,"48,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,69000000,2018
+407,Xe Mitsubishi Xpander Cross 1.5 AT 2023,Mitsubishi,xe-mitsubishi-xpander-cross-1.5-at-2023-4879969,SUV,Nhập khẩu,0 Km,Xám,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2023
+408,Xe Mercedes Benz GLC 300 4Matic 2021,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2021-4903348,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2039000000,2021
+409,Xe Mercedes Benz GLC 300 4Matic 2023,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2023-4859649,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2499000000,2023
+410,Xe Mercedes Benz GLS 450 4Matic 2022,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2022-4022908,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5309000000,2022
+411,Xe Mazda 2 Luxury 2020,Mazda,xe-mazda-2-luxury-2020-4910746,Sedan,Nhập khẩu,"20,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2020
+412,Xe Mitsubishi Xpander Premium 1.5 AT 2023,Mitsubishi,xe-mitsubishi-xpander-premium-1.5-at-2023-4435999,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2023
+413,Xe BMW 5 Series 520i 2016,BMW,xe-bmw-5_series-520i-2016-4889913,Sedan,Nhập khẩu,"43,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,90000000,2016
+414,Xe Ford Everest Titanium 2.0L 4x2 AT 2021,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2021-4802922,SUV,Nhập khẩu,"30,000 Km",Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,99000000,2021
+415,Xe Mazda cx3 Luxury 1.5 AT 2023,Mazda,xe-mazda-cx3-luxury-1.5-at-2023-3861037,Crossover,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2023
+416,Xe Ford Territory Titanium X 2023,Ford,xe-ford-territory-titanium-x-2023-4935510,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,90000000,2023
+417,Xe Toyota Yaris 1.3 AT 2009,Toyota,xe-toyota-yaris-1.3-at-2009-4926923,Hatchback,Nhập khẩu,"100,000 Km",Trắng,5 chỗ,1.3 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2009
+418,Xe Toyota Yaris G 1.5 AT 2021,Toyota,xe-toyota-yaris-g-1.5-at-2021-4922803,Hatchback,Nhập khẩu,"10,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,19000000,2021
+419,Xe Hyundai SantaFe Cao cấp 2.2L HTRAC 2022,Hyundai,xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-4920271,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1190000000,2022
+420,Xe Toyota Land Cruiser 3.5 V6 2023,Toyota,xe-toyota-land_cruiser-3.5-v6-2023-4922262,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,3.4 L,,Số tự động,AWD - 4 bánh toàn thời gian,4286000000,2023
+421,Xe Mitsubishi Pajero 3.5 2001,Mitsubishi,xe-mitsubishi-pajero-3.5-2001-4634827,SUV,Nhập khẩu,"150,000 Km",Xanh,9 chỗ,3.5 L,,Số tay,4WD - Dẫn động 4 bánh,65000000,2001
+422,Xe Isuzu Dmax LS 1.9L 4x2 AT 2023,Isuzu,xe-isuzu-dmax-ls-1.9l-4x2-at-2023-4438456,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,1.9 L,,Số tự động,RFD - Dẫn động cầu sau,30000000,2023
+423,Xe Ford Everest Ambiente 2.0L 4x2 AT 2023,Ford,xe-ford-everest-ambiente-2.0l-4x2-at-2023-4923842,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1069000000,2023
+424,Xe Toyota Innova 2.0E 2014,Toyota,xe-toyota-innova-2.0e-2014-4765183,Crossover,Lắp ráp trong nước,0 Km,Bạc,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,80000000,2014
+425,Xe VinFast VF8 Eco 2023,VinFast,xe-vinfast-vf8-eco-2023-4815057,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,77000000,2023
+426,Xe Suzuki Super Carry Truck 1.0 MT 2022,Suzuki,xe-suzuki-super_carry_truck-1.0-mt-2022-17042,Truck,Lắp ráp trong nước,0 Km,Trắng,2 chỗ,1.0 L,,Số tay,RFD - Dẫn động cầu sau,49000000,2022
+427,Xe Isuzu QKR 270 2t8 2023,Isuzu,xe-isuzu-qkr-270-2t8-2023-4356592,Truck,Nhập khẩu,0 Km,Trắng,3 chỗ,3.0 L,,Số tay,RFD - Dẫn động cầu sau,65000000,2023
+428,Xe Ford Everest 2022,Ford,xe-ford-everest--2022-4935009,SUV,Nhập khẩu,"7,000 Km",Đen,7 chỗ,,diesel,Số tự động,RFD - Dẫn động cầu sau,1245000000,2022
+429,Xe Isuzu NPR 3.5 Tấn 2023,Isuzu,xe-isuzu-npr-3.5-tan-2023-4279506,Truck,Nhập khẩu,0 Km,Trắng,3 chỗ,3.0 L,,Số tay,RFD - Dẫn động cầu sau,15000000,2023
+430,Xe Toyota Corolla Cross 1.8HV 2021,Toyota,xe-toyota-corolla_cross-1.8hv-2021-4935252,SUV,Nhập khẩu,"20,000 Km",Đỏ,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2021
+431,Xe VinFast Lux SA 2.0 Nâng cao 2022,VinFast,xe-vinfast-lux_sa_2.0-nang-cao-2022-4835487,SUV,Lắp ráp trong nước,"4,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,40000000,2022
+432,Xe Ford Focus Titanium 1.5L 2016,Ford,xe-ford-focus-titanium-1.5l-2016-4861094,Sedan,Lắp ráp trong nước,"110,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2016
+433,Xe Hyundai i10 Grand 1.2 MT 2019,Hyundai,xe-hyundai-i10-grand-1.2-mt-2019-4883618,Sedan,Lắp ráp trong nước,"70,000 Km",Trắng,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,35000000,2019
+434,Xe Ford Ranger XLT 2.2L 4x4 MT 2012,Ford,xe-ford-ranger-xlt-2.2l-4x4-mt-2012-4868702,Bán tải / Pickup,Nhập khẩu,"150,000 Km",Xanh,5 chỗ,2.2 L,,Số tay,4WD - Dẫn động 4 bánh,85000000,2012
+435,Xe Mercedes Benz S class S450L 2020,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2020-4834871,Sedan,Lắp ráp trong nước,"1,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3600000000,2020
+436,Xe Honda Civic RS 1.5 AT 2023,Honda,xe-honda-civic-rs-1.5-at-2023-4841932,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2023
+437,Xe Hyundai i10 1.2 AT 2021,Hyundai,xe-hyundai-i10-1.2-at-2021-4853184,Sedan,Lắp ráp trong nước,"18,000 Km",Trắng,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2021
+438,Xe Ford Ranger XLS 2.0L 4x2 MT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-mt-2023-4604305,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,15000000,2023
+439,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4811698,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,0,2023
+440,Xe Kia Sorento Luxury 2.2 AT 2022,Kia,xe-kia-sorento-luxury-2.2-at-2022-3421305,SUV,Lắp ráp trong nước,0 Km,Đỏ,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1134000000,2022
+441,Xe Hyundai Tucson 2.0 AT CRDi 2020,Hyundai,xe-hyundai-tucson-2.0-at-crdi-2020-4919188,Crossover,Lắp ráp trong nước,"35,098 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2020
+442,Xe Lexus ES 250 2022,Lexus,xe-lexus-es-250-2022-4879389,Sedan,Nhập khẩu,"16,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,2535000000,2022
+443,Xe Hyundai i10 1.2 AT 2023,Hyundai,xe-hyundai-i10-1.2-at-2023-2457693,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2023
+444,Xe Hyundai Tucson 2.0ATH 2020,Hyundai,xe-hyundai-tucson-2.0ath-2020-4932830,SUV,Lắp ráp trong nước,"35,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,79000000,2020
+445,Xe Honda Brio RS 2020,Honda,xe-honda-brio-rs-2020-4889259,Hatchback,Nhập khẩu,"17,000 Km",Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,19000000,2020
+446,Xe Mazda BT50 1.9L 4x2 AT 2023,Mazda,xe-mazda-bt50-1.9l-4x2-at-2023-4087222,Bán tải / Pickup,Nhập khẩu,0 Km,Ghi,5 chỗ,1.9 L,,Số tự động,RFD - Dẫn động cầu sau,89000000,2023
+447,Xe Toyota Prado TXL 2.7L 2016,Toyota,xe-toyota-prado-txl-2.7l-2016-4919209,SUV,Nhập khẩu,11 Km,Trắng,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,1490000000,2016
+448,Xe Suzuki XL7 1.5 AT 2021,Suzuki,xe-suzuki-xl7-1.5-at-2021-4904966,SUV,Nhập khẩu,"16,099 Km",Xanh,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,38000000,2021
+449,Xe Hyundai Tucson 2.0 ATH 2020,Hyundai,xe-hyundai-tucson-2.0-ath-2020-4820435,Crossover,Lắp ráp trong nước,"30,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2020
+450,Xe Toyota Rush 1.5S AT 2020,Toyota,xe-toyota-rush-1.5s-at-2020-4777982,SUV,Nhập khẩu,"68,000 Km",Bạc,7 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,60000000,2020
+451,Xe Mazda 3 1.5 AT 2015,Mazda,xe-mazda-3-1.5-at-2015-4881978,Sedan,Lắp ráp trong nước,6 Km,Bạc,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2015
+452,Xe Mercedes Benz GLC 300 4Matic 2020,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2020-4933359,SUV,Lắp ráp trong nước,"18,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1889000000,2020
+453,Xe Mercedes Benz E class E200 Exclusive 2020,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2020-4867118,Sedan,Lắp ráp trong nước,"21,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1599000000,2020
+454,Xe Mercedes Benz E class E200 Exclusive 2022,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2022-4917983,Sedan,Lắp ráp trong nước,"1,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2139000000,2022
+455,Xe Hyundai Kona 2.0 ATH 2018,Hyundai,xe-hyundai-kona-2.0-ath-2018-4920679,Crossover,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2018
+456,Xe Chevrolet Colorado High Country 2.8L 4x4 AT 2017,Chevrolet,xe-chevrolet-colorado-high-country-2.8l-4x4-at-2017-4714893,Bán tải / Pickup,Nhập khẩu,"70,000 Km",Đen,5 chỗ,2.8 L,,Số tự động,4WD - Dẫn động 4 bánh,70000000,2017
+457,Xe Mercedes Benz C class C250 CGI 2009,Mercedes Benz,xe-mercedes_benz-c_class-c250-cgi-2009-4379246,Sedan,Lắp ráp trong nước,"90,000 Km",Xanh,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,80000000,2009
+458,Xe Chevrolet Captiva LTZ Maxx 2.4 AT 2010,Chevrolet,xe-chevrolet-captiva-ltz-maxx-2.4-at-2010-4903511,SUV,Lắp ráp trong nước,"60,000 Km",Vàng,7 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2010
+459,Xe Peugeot 508 1.6 AT 2015,Peugeot,xe-peugeot-508-1.6-at-2015-4777951,Sedan,Nhập khẩu,"65,000 Km",Đen,5 chỗ,1.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,30000000,2015
+460,Xe Kia Morning Si AT 2018,Kia,xe-kia-morning-si-at-2018-4895134,Hatchback,Lắp ráp trong nước,"68,000 Km",Trắng,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2018
+461,Xe MG 5 Luxury 1.5 AT 2022,MG,xe-mg-5-luxury-1.5-at-2022-4861250,Sedan,Nhập khẩu,"8,000 Km",Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2022
+462,Xe Chevrolet Colorado High Country 2.5L 4x4 AT 2019,Chevrolet,xe-chevrolet-colorado-high-country-2.5l-4x4-at-2019-4928540,Bán tải / Pickup,Nhập khẩu,"45,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,4WD - Dẫn động 4 bánh,30000000,2019
+463,Xe Kia Cerato 2.0 AT Premium 2021,Kia,xe-kia-cerato-2.0-at-premium-2021-4868453,Sedan,Lắp ráp trong nước,"19,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2021
+464,Xe LandRover Range Rover SVAutobiography LWB 3.0 I6 2020,LandRover,xe-landrover-range_rover-svautobiography-lwb-3.0-i6-2020-4810671,SUV,Nhập khẩu,"15,000 Km",Xám,4 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,10999000000,2020
+465,Xe Hyundai SantaFe SLX 2009,Hyundai,xe-hyundai-santafe-slx-2009-4880796,SUV,Nhập khẩu,"80,000 Km",Bạc,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2009
+466,Xe Honda CRV L 2023,Honda,xe-honda-crv-l-2023-3798561,SUV,Lắp ráp trong nước,0 Km,Xanh,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2023
+467,Xe Mercedes Benz C class C300 AMG 2022,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2022-4898452,Sedan,Nhập khẩu,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2349000000,2022
+468,Xe Mitsubishi Triton Athlete 4x4 AT 2023,Mitsubishi,xe-mitsubishi-triton-athlete-4x4-at-2023-4229271,Bán tải / Pickup,Nhập khẩu,0 Km,Đen,5 chỗ,2.4 L,,Số tự động,4WD - Dẫn động 4 bánh,5000000,2023
+469,Xe Mercedes Benz C class C200 Avantgarde Plus 2022,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-plus-2022-4493398,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1789000000,2022
+470,Xe Dongben 2010,Dongben,xe-dongben-khac--2010-4839799,Truck,Lắp ráp trong nước,0 Km,Xanh,2 chỗ,,diesel,Số tay,RFD - Dẫn động cầu sau,0,2010
+471,Xe Porsche Macan 2.0 2020,Porsche,xe-porsche-macan-2.0-2020-4884221,SUV,Nhập khẩu,"24,000 Km",Nâu,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3250000000,2020
+472,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4822032,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,95000000,2023
+473,Xe Toyota Camry LE 2.5 2010,Toyota,xe-toyota-camry-le-2.5-2010-4917417,Sedan,Nhập khẩu,"100,000 Km",Đen,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2010
+474,Xe Ford Ranger Raptor 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2023-4883037,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1299000000,2023
+475,Xe Honda City RS 1.5 AT 2023,Honda,xe-honda-city-rs-1.5-at-2023-4513503,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2023
+476,Xe Mercedes Benz GLC 300 4Matic 2020,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2020-4719491,SUV,Lắp ráp trong nước,"31,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2150000000,2020
+477,Xe Ford Ranger XLS 2.2L 4x2 AT 2015,Ford,xe-ford-ranger-xls-2.2l-4x2-at-2015-4757309,Bán tải / Pickup,Nhập khẩu,"70,000 Km",Cát,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2015
+478,Xe Mercedes Benz G class G63 AMG 2022,Mercedes Benz,xe-mercedes_benz-g_class-g63-amg-2022-4873847,SUV,Nhập khẩu,"2,600 Km",Vàng,5 chỗ,4.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,12900000000,2022
+479,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4551540,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Bạc,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,40000000,2023
+480,Xe Ford EcoSport Titanium 1.5L AT 2015,Ford,xe-ford-ecosport-titanium-1.5l-at-2015-4458936,SUV,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2015
+481,Xe LandRover Range Rover Autobiography LWB Black Edition 2015,LandRover,xe-landrover-range_rover-autobiography-lwb-black-edition-2015-4864118,SUV,Nhập khẩu,"50,000 Km",Đen,4 chỗ,5.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5250000000,2015
+482,Xe Lexus RX 350 AWD 2014,Lexus,xe-lexus-rx-350-awd-2014-4610725,SUV,Nhập khẩu,"71,000 Km",Trắng,5 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,1795000000,2014
+483,Xe Mercedes Benz GL GL 450 4Matic 2010,Mercedes Benz,xe-mercedes_benz-gl-gl-450-4matic-2010-4892292,SUV,Nhập khẩu,"80,000 Km",Đen,7 chỗ,4.7 L,,Số tự động,AWD - 4 bánh toàn thời gian,50000000,2010
+484,Xe Mitsubishi Pajero Sport D 4x2 MT 2016,Mitsubishi,xe-mitsubishi-pajero-sport-d-4x2-mt-2016-4921148,SUV,Lắp ráp trong nước,"90,000 Km",Vàng,7 chỗ,2.5 L,,Số tay,RFD - Dẫn động cầu sau,98000000,2016
+485,Xe Mazda 3 1.5L Luxury 2021,Mazda,xe-mazda-3-1.5l-luxury-2021-4846406,Sedan,Lắp ráp trong nước,"30,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2021
+486,Xe Toyota Avanza Premio 1.5 AT 2023,Toyota,xe-toyota-avanza-premio-1.5-at-2023-4922284,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,98000000,2023
+487,Xe Honda HRV RS 2023,Honda,xe-honda-hrv-rs-2023-4774260,Crossover,Nhập khẩu,0 Km,Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,71000000,2023
+488,Xe Suzuki Super Carry Van Blind Van 2014,Suzuki,xe-suzuki-super_carry_van-blind-van-2014-4908560,Van/Minivan,Lắp ráp trong nước,"10,000 Km",Trắng,2 chỗ,1.0 L,,Số tay,RFD - Dẫn động cầu sau,48000000,2014
+489,Xe Mercedes Benz GLA class GLA 45 AMG 4Matic 2015,Mercedes Benz,xe-mercedes_benz-gla_class-gla-45-amg-4matic-2015-4875321,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,30000000,2015
+490,Xe Mazda CX5 Deluxe 2.0 AT 2023,Mazda,xe-mazda-cx5-deluxe-2.0-at-2023-3164470,SUV,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2023
+491,Xe Hyundai Tucson 1.6 AT Turbo HTRAC Đặc biệt 2022,Hyundai,xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2022-4163225,Crossover,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,1.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,1020000000,2022
+492,Xe Mercedes Benz GL GL 320 CDI 4Matic 2008,Mercedes Benz,xe-mercedes_benz-gl-gl-320-cdi-4matic-2008-4838009,SUV,Nhập khẩu,0 Km,Xanh,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,50000000,2008
+493,Xe VinFast VF8 Eco 2022,VinFast,xe-vinfast-vf8-eco-2022-4736066,SUV,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,16000000,2022
+494,Xe Ford Everest Sport 2.0L 4x2 AT 2023,Ford,xe-ford-everest-sport-2.0l-4x2-at-2023-4483484,SUV,Nhập khẩu,0 Km,Nâu,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1148000000,2023
+495,Xe Mitsubishi Xpander 1.5 AT 2022,Mitsubishi,xe-mitsubishi-xpander-1.5-at-2022-4540836,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2022
+496,Xe Hyundai i10 1.2 MT Tiêu Chuẩn 2023,Hyundai,xe-hyundai-i10-1.2-mt-tieu-chuan-2023-4847331,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,42000000,2023
+497,Xe Hyundai Tucson 2.0 ATH 2020,Hyundai,xe-hyundai-tucson-2.0-ath-2020-4851838,Crossover,Lắp ráp trong nước,"30,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2020
+498,Xe BMW 5 Series 528i GT 2016,BMW,xe-bmw-5_series-528i-gt-2016-4573733,Sedan,Nhập khẩu,"49,000 Km",Nâu,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1399000000,2016
+499,Xe Lexus RX 200t 2017,Lexus,xe-lexus-rx-200t-2017-4924340,SUV,Nhập khẩu,"70,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2335000000,2017
+500,Xe Lexus RX 200t 2017,Lexus,xe-lexus-rx-200t-2017-4924340,SUV,Nhập khẩu,"70,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2335000000,2017
+501,Xe Lexus LX 570 Super Sport 2019,Lexus,xe-lexus-lx-570-super-sport-2019-4872031,SUV,Nhập khẩu,"35,000 Km",Đen,7 chỗ,5.7 L,,Số tự động,AWD - 4 bánh toàn thời gian,7900000000,2019
+502,Xe Hyundai i10 Grand 1.0 MT 2014,Hyundai,xe-hyundai-i10-grand-1.0-mt-2014-4925175,Hatchback,Nhập khẩu,"8,000 Km",Trắng,5 chỗ,1.0 L,,Số tay,FWD - Dẫn động cầu trước,23000000,2014
+503,Xe Toyota Vios 1.5E CVT 2017,Toyota,xe-toyota-vios-1.5e-cvt-2017-4617672,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,83000000,2017
+504,Xe Mazda CX5 Premium 2.0 AT 2022,Mazda,xe-mazda-cx5-premium-2.0-at-2022-4867111,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,19000000,2022
+505,Xe Hyundai Accent 1.4 MT 2019,Hyundai,xe-hyundai-accent-1.4-mt-2019-4925505,Sedan,Lắp ráp trong nước,"56,000 Km",Trắng,5 chỗ,1.4 L,,Số tay,FWD - Dẫn động cầu trước,85000000,2019
+506,Xe Toyota Vios G 2016,Toyota,xe-toyota-vios-g-2016-4935558,Sedan,Lắp ráp trong nước,"70,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,25000000,2016
+507,Xe VinFast Lux SA 2.0 2020,VinFast,xe-vinfast-lux_sa_2.0--2020-4933143,SUV,Lắp ráp trong nước,"9,000 Km",Xám,7 chỗ,,Xăng,Số tự động,4WD - Dẫn động 4 bánh,10000000,2020
+508,Xe Chevrolet Trailblazer LTZ 2.5L VGT 4x4 AT 2018,Chevrolet,xe-chevrolet-trailblazer-ltz-2.5l-vgt-4x4-at-2018-4726425,SUV,Nhập khẩu,"48,000 Km",Đen,7 chỗ,2.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,90000000,2018
+509,Xe VinFast Lux SA 2.0 Premium 2.0 AT 2019,VinFast,xe-vinfast-lux_sa_2.0-premium-2.0-at-2019-4878590,SUV,Lắp ráp trong nước,"48,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,30000000,2019
+510,Xe Kia Sorento DATH 2018,Kia,xe-kia-sorento-dath-2018-4890628,SUV,Lắp ráp trong nước,"48,000 Km",Nâu,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,38000000,2018
+511,Xe Nissan Teana 2.0 taiwan 2011,Nissan,xe-nissan-teana-2.0-taiwan-2011-4935559,Sedan,Nhập khẩu,"150,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,330000000000000,2011
+512,Xe Lexus RX 350L 2021,Lexus,xe-lexus-rx-350l-2021-4935131,SUV,Nhập khẩu,"30,000 Km",Đen,5 chỗ,,,Số tự động,-,3699000000,2021
+513,Xe Mercedes Benz S class S450L Luxury 2019,Mercedes Benz,xe-mercedes_benz-s_class-s450l-luxury-2019-4916553,Sedan,Lắp ráp trong nước,"15,000 Km",Đỏ,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3128000000,2019
+514,Xe Mercedes Benz E class E300 AMG 2020,Mercedes Benz,xe-mercedes_benz-e_class-e300-amg-2020-4895160,Sedan,Lắp ráp trong nước,"19,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1997000000,2020
+515,Xe Hyundai i10 MT 1.2 2015,Hyundai,xe-hyundai-i10-mt-1.2-2015-4935546,Sedan,Nhập khẩu,8 Km,Bạc,5 chỗ,,Xăng,Số tay,4WD - Dẫn động 4 bánh,30000000,2015
+516,Xe Hyundai Stargazer Đặc biệt 1.5 AT 2022,Hyundai,xe-hyundai-stargazer-dac-biet-1.5-at-2022-4703204,Van/Minivan,Nhập khẩu,0 Km,Xám,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2022
+517,Xe Mercedes Benz GLC 300 4Matic 2023,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2023-4063527,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2639000000,2023
+518,Xe Mercedes Benz GLS 450 4Matic 2019,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2019-4933189,SUV,Nhập khẩu,"13,222 Km",Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4178000000,2019
+519,Xe Mercedes Benz GLS 450 4Matic 2021,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2021-4921347,SUV,Nhập khẩu,"8,878 Km",Xanh,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4738000000,2021
+520,Xe Mercedes Benz GLS 450 4Matic 2021,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2021-4920130,SUV,Nhập khẩu,"8,222 Km",Xanh,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4738000000,2021
+521,Xe Toyota Innova 2.0G 2017,Toyota,xe-toyota-innova-2.0g-2017-4932441,SUV,Lắp ráp trong nước,"130,000 Km",Bạc,8 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,65000000,2017
+522,Xe VinFast Fadil Tiêu chuẩn 1.4 AT 2022,VinFast,xe-vinfast-fadil-tieu-chuan-1.4-at-2022-4923503,Hatchback,Lắp ráp trong nước,"12,000 Km",Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,58000000,2022
+523,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4623607,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1245000000,2023
+524,Xe Ford Focus Trend 1.5L 2018,Ford,xe-ford-focus-trend-1.5l-2018-4905064,Hatchback,Lắp ráp trong nước,"46,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,46000000,2018
+525,Xe VinFast Fadil 1.4 AT Plus 2020,VinFast,xe-vinfast-fadil-1.4-at-plus-2020-4890069,Hatchback,Lắp ráp trong nước,"30,000 Km",Xanh,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,36000000,2020
+526,Xe Mercedes Benz S class S450L 2019,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2019-4884045,Sedan,Lắp ráp trong nước,"14,888 Km",Đỏ,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3128000000,2019
+527,Xe Mercedes Benz E class E200 exclusive 2021,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2021-4932874,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,1858000000,2021
+528,Xe LandRover Range Rover Autobiography LWB 3.0 V6 2019,LandRover,xe-landrover-range_rover-autobiography-lwb-3.0-v6-2019-4890020,SUV,Nhập khẩu,"40,000 Km",Đỏ,4 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,8699000000,2019
+529,Xe Kia Carnival Luxury 2.2D 2023,Kia,xe-kia-carnival-luxury-2.2d-2023-4492890,Van/Minivan,Lắp ráp trong nước,0 Km,Trắng,8 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1289000000,2023
+530,Xe Hyundai Elantra N-Line 1.6 Turbo AT 2022,Hyundai,xe-hyundai-elantra-n-line-1.6-turbo-at-2022-4645576,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2022
+531,Xe Mercedes Benz GLC 200 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2022-4747427,SUV,Lắp ráp trong nước,50 Km,Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2069000000,2022
+532,Xe Hyundai SantaFe Cao cấp 2.2L HTRAC 2021,Hyundai,xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-4653207,SUV,Lắp ráp trong nước,"20,000 Km",Xanh,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1235000000,2021
+533,Xe Mercedes Benz GLS 450 4Matic 2019,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2019-4932947,SUV,Nhập khẩu,"13,888 Km",Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4178000000,2019
+534,Xe Mercedes Benz E class E200 Exclusive 2021,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2021-4905435,Sedan,Lắp ráp trong nước,"27,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1858000000,2021
+535,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4887289,SUV,Lắp ráp trong nước,"8,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1738000000,2022
+536,Xe Mercedes Benz GLC GLS450 4matic 2019,Mercedes Benz,xe-mercedes_benz-glc-gls450-4matic-2019-4934855,SUV,Nhập khẩu,"13,999 Km",Đen,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,4178000000,2019
+537,Xe Mercedes Benz C class C200 2016,Mercedes Benz,xe-mercedes_benz-c_class-c200-2016-4930240,Sedan,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,15000000,2016
+538,Xe Mercedes Benz GLS 450 4Matic 2019,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2019-4932972,SUV,Nhập khẩu,"23,000 Km",Đen,7 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,4179000000,2019
+539,Xe Mercedes Benz GLC 250 4Matic 2017,Mercedes Benz,xe-mercedes_benz-glc-250-4matic-2017-4906791,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1100000000,2017
+540,Xe Ford Mustang 2.3 EcoBoost Premium Fastback 2021,Ford,xe-ford-mustang-2.3-ecoboost-premium-fastback-2021-4864914,Coupe,Nhập khẩu,0 Km,Đỏ,4 chỗ,2.3 L,,Số tự động,RFD - Dẫn động cầu sau,3150000000,2021
+541,Xe Mercedes Benz E class E200 Exclusive 2021,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2021-4909488,Sedan,Lắp ráp trong nước,"27,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1859000000,2021
+542,Xe VinFast Lux A 2.0 Tiêu chuẩn 2022,VinFast,xe-vinfast-lux_a_2.0-tieu-chuan-2022-4885886,Sedan,Lắp ráp trong nước,"12,000 Km",Xám,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,60000000,2022
+543,Xe Mercedes Benz C class C180 AMG 2021,Mercedes Benz,xe-mercedes_benz-c_class-c180-amg-2021-4611132,Sedan,Lắp ráp trong nước,"14,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1198000000,2021
+544,Xe Chevrolet Captiva LT 2.4 MT 2008,Chevrolet,xe-chevrolet-captiva-lt-2.4-mt-2008-4932733,SUV,Lắp ráp trong nước,"101,000 Km",Đen,7 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,15000000,2008
+545,Xe Nissan Teana 2.0 AT 2010,Nissan,xe-nissan-teana-2.0-at-2010-4880613,Sedan,Nhập khẩu,"980,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,33000000,2010
+546,Xe Mercedes Benz GLS 450 4Matic 2019,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2019-4933095,SUV,Nhập khẩu,"24,000 Km",Đen,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,4179000000,2019
+547,Xe Kia Morning SLX 1.0 AT 2010,Kia,xe-kia-morning-slx-1.0-at-2010-4921128,Hatchback,Nhập khẩu,"98,000 Km",Bạc,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2010
+548,Xe Mercedes Benz S class S450L 2019,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2019-4803543,Sedan,Lắp ráp trong nước,"16,000 Km",Đỏ,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3129000000,2019
+549,Xe Mercedes Benz E class E300 AMG 2020,Mercedes Benz,xe-mercedes_benz-e_class-e300-amg-2020-4903381,Sedan,Lắp ráp trong nước,"34,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1998000000,2020
+550,Xe Mercedes Benz E class E200 Exclusive 2021,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2021-4905461,Sedan,Lắp ráp trong nước,"27,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1859000000,2021
+551,Xe Volvo XC60 T6 AWD Inscription 2020,Volvo,xe-volvo-xc60-t6-awd-inscription-2020-4925416,SUV,Nhập khẩu,"43,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1759000000,2020
+552,Xe Porsche Cayenne 3.0 V6 2017,Porsche,xe-porsche-cayenne-3.0-v6-2017-4922191,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2950000000,2017
+553,Xe Porsche Cayenne 3.0 V6 2020,Porsche,xe-porsche-cayenne-3.0-v6-2020-4934012,SUV,Nhập khẩu,"20,000 Km",Đen,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3950000000,2020
+554,Xe Hyundai SantaFe SLX 2009,Hyundai,xe-hyundai-santafe-slx-2009-4922272,SUV,Nhập khẩu,"89,000 Km",Đen,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,38000000,2009
+555,Xe VinFast Lux SA 2.0 2.0 AT 2021,VinFast,xe-vinfast-lux_sa_2.0-2.0-at-2021-4836472,SUV,Lắp ráp trong nước,"30,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,99000000,2021
+556,Xe Mercedes Benz C class C200 Avantgarde 2022,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2022-4574072,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1709000000,2022
+557,Xe Mitsubishi Triton 4x2 MT 2019,Mitsubishi,xe-mitsubishi-triton-4x2-mt-2019-4656584,Bán tải / Pickup,Nhập khẩu,"80,000 Km",Bạc,5 chỗ,2.4 L,,Số tay,RFD - Dẫn động cầu sau,50000000,2019
+558,Xe Kia Cerato 2.0 AT Premium 2019,Kia,xe-kia-cerato-2.0-at-premium-2019-4840867,Sedan,Lắp ráp trong nước,"39,048 Km",Xám,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,79000000,2019
+559,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4852111,Sedan,Lắp ráp trong nước,"30,000 Km",Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2019
+560,Xe Mercedes Benz GLE Class GLE 53 4Matic+ Coupe AMG 2022,Mercedes Benz,xe-mercedes_benz-gle_class-gle-53-4matic+-coupe-amg-2022-4742750,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5679000000,2022
+561,Xe LandRover Range Rover Evoque Dynamic 2012,LandRover,xe-landrover-range_rover_evoque-dynamic-2012-4909584,SUV,Nhập khẩu,"100,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,15000000,2012
+562,Xe Mercedes Benz C class C250 2011,Mercedes Benz,xe-mercedes_benz-c_class-c250-2011-4908495,Sedan,Lắp ráp trong nước,"10,000 Km",Trắng,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,85000000,2011
+563,Xe Mercedes Benz G class G63 AMG 2023,Mercedes Benz,xe-mercedes_benz-g_class-g63-amg-2023-4810379,SUV,Nhập khẩu,0 Km,Xám,5 chỗ,4.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,11750000000,2023
+564,Xe Mercedes Benz E class E200 Exclusive 2023,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2023-4716571,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2339000000,2023
+565,Xe Mercedes Benz V class V250 AMG 2023,Mercedes Benz,xe-mercedes_benz-v_class-v250-amg-2023-4764201,Van/Minivan,Nhập khẩu,0 Km,Trắng,6 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,3699000000,2023
+566,Xe Mercedes Benz C class C200 Avantgarde Plus 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-plus-2023-4934528,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1724000000,2023
+567,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4930415,SUV,Lắp ráp trong nước,0 Km,Cát,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,2000000,2023
+568,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4925098,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,3000000,2023
+569,Xe Mercedes Benz GLC 200 4Matic 2023,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2023-4934544,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1969000000,2023
+570,Xe Mercedes Benz GLC 200 4Matic 2023,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2023-4934551,SUV,Lắp ráp trong nước,0 Km,Xám,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1969000000,2023
+571,Xe Mercedes Benz GLC 200 2023,Mercedes Benz,xe-mercedes_benz-glc-200-2023-4934557,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1719000000,2023
+572,Xe Mercedes Benz GLC 200 2023,Mercedes Benz,xe-mercedes_benz-glc-200-2023-4934569,SUV,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1719000000,2023
+573,Xe Toyota Camry 2.5Q 2019,Toyota,xe-toyota-camry-2.5q-2019-4669451,Sedan,Nhập khẩu,"52,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2019
+574,Xe Mercedes Benz E class E200 Sport 2019,Mercedes Benz,xe-mercedes_benz-e_class-e200-sport-2019-4889737,Sedan,Lắp ráp trong nước,"41,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1599000000,2019
+575,Xe Toyota Hilux 2.4L 4x2 AT 2021,Toyota,xe-toyota-hilux-2.4l-4x2-at-2021-4891810,Bán tải / Pickup,Nhập khẩu,"38,856 Km",Đỏ,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,85000000,2021
+576,Xe Ford Explorer Limited 2.3L EcoBoost 2023,Ford,xe-ford-explorer-limited-2.3l-ecoboost-2023-4875320,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.3 L,,Số tự động,AWD - 4 bánh toàn thời gian,2309000000,2023
+577,Xe Toyota Camry 2.0G 2019,Toyota,xe-toyota-camry-2.0g-2019-4918100,Sedan,Nhập khẩu,"61,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2019
+578,Xe VinFast VF8 Plus 2022,VinFast,xe-vinfast-vf8-plus-2022-4632239,SUV,Lắp ráp trong nước,0 Km,Đồng,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1184000000,2022
+579,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4879853,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1245000000,2023
+580,Xe Mercedes Benz GLC 200 2018,Mercedes Benz,xe-mercedes_benz-glc-200-2018-4853990,SUV,Lắp ráp trong nước,"36,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1279000000,2018
+581,Xe Mercedes Benz GLC 200 2023,Mercedes Benz,xe-mercedes_benz-glc-200-2023-4934721,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1719000000,2023
+582,Xe Mercedes Benz C class C300 AMG 2023,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2023-4934730,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1989000000,2023
+583,Xe Mercedes Benz C class C300 AMG 2023,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2023-4934735,Sedan,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1989000000,2023
+584,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4843398,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1240000000,2023
+585,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4930974,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,3000000,2023
+586,Xe VinFast VF9 Plus 2023,VinFast,xe-vinfast-vf9-plus-2023-4904691,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1321000000,2023
+587,Xe VinFast Lux A 2.0 base 2022,VinFast,xe-vinfast-lux_a_2.0-base-2022-4935540,Sedan,Lắp ráp trong nước,"10,000 Km",-,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,55000000,2022
+588,Xe Kia Forte SLi 1.6 AT 2009,Kia,xe-kia-forte-sli-1.6-at-2009-4918243,Sedan,Nhập khẩu,"101,000 Km",Đen,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,82000000,2009
+589,Xe Mercedes Benz C class C300 AMG 2017,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2017-4909633,Sedan,Lắp ráp trong nước,"43,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1119000000,2017
+590,Xe Hyundai i10 1.2 MT Tiêu Chuẩn 2022,Hyundai,xe-hyundai-i10-1.2-mt-tieu-chuan-2022-4317482,Hatchback,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,55000000,2022
+591,Xe Audi A7 55 TFSI Quattro 2023,Audi,xe-audi-a7-55-tfsi-quattro-2023-4808604,Sedan,Nhập khẩu,0 Km,Đen,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3780000000,2023
+592,Xe Hyundai Tucson 2.0 AT Đặc biệt 2022,Hyundai,xe-hyundai-tucson-2.0-at-dac-biet-2022-4723971,Crossover,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,0,2022
+593,Xe Mitsubishi Outlander 2.0 CVT Premium 2019,Mitsubishi,xe-mitsubishi-outlander-2.0-cvt-premium-2019-4928409,SUV,Lắp ráp trong nước,"26,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2019
+594,Xe Lexus ES 350 2008,Lexus,xe-lexus-es-350-2008-4871554,Sedan,Nhập khẩu,"60,000 Km",Bạc,5 chỗ,3.5 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2008
+595,Xe Chevrolet Spark Van 1.0 AT 2011,Chevrolet,xe-chevrolet-spark-van-1.0-at-2011-4928131,Van/Minivan,Nhập khẩu,"10,000 Km",Trắng,2 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,32000000,2011
+596,Xe Chevrolet Cruze LT 1.6L 2018,Chevrolet,xe-chevrolet-cruze-lt-1.6l-2018-4922726,Sedan,Lắp ráp trong nước,"62,000 Km",Đen,5 chỗ,1.6 L,,Số tay,FWD - Dẫn động cầu trước,35000000,2018
+597,Xe Toyota Vios 1.5G 2019,Toyota,xe-toyota-vios-1.5g-2019-4875537,Sedan,Lắp ráp trong nước,"60,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,52000000,2019
+598,Xe Toyota Vios 1.5G 2017,Toyota,xe-toyota-vios-1.5g-2017-4904998,Sedan,Lắp ráp trong nước,"70,000 Km",Bạc,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2017
+599,Xe Mazda CX5 2.0 Luxury 2020,Mazda,xe-mazda-cx5-2.0-luxury-2020-4931836,SUV,Lắp ráp trong nước,"41,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2020
+600,Xe Volvo XC60 T6 AWD Inscription 2021,Volvo,xe-volvo-xc60-t6-awd-inscription-2021-4928699,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1759000000,2021
+601,Xe Lexus RX 350 2019,Lexus,xe-lexus-rx-350-2019-4501461,SUV,Nhập khẩu,"35,000 Km",Trắng,5 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,3299000000,2019
+602,Xe Ford Everest Titanium 2019,Ford,xe-ford-everest-titanium-2019-4935532,SUV,Lắp ráp trong nước,"90,000 Km",Đen,7 chỗ,,diesel,Số tự động,AWD - 4 bánh toàn thời gian,59000000,2019
+603,Xe Porsche Macan 2.0 2021,Porsche,xe-porsche-macan-2.0-2021-4858431,SUV,Nhập khẩu,"12,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3668000000,2021
+604,Xe MG ZS Luxury 1.5 AT 2WD 2022,MG,xe-mg-zs-luxury-1.5-at-2wd-2022-3620633,Crossover,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,8000000,2022
+605,Xe Mitsubishi Xpander Premium 1.5 AT 2023,Mitsubishi,xe-mitsubishi-xpander-premium-1.5-at-2023-4896431,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,58000000,2023
+606,Xe Mercedes Benz Maybach GLS 600 4Matic 2022,Mercedes Benz,xe-mercedes_benz-maybach-gls-600-4matic-2022-4844494,SUV,Nhập khẩu,0 Km,Đen,4 chỗ,4.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,14800000000,2022
+607,Xe Peugeot 2008 GT Line 2023,Peugeot,xe-peugeot-2008-gt-line-2023-4281942,SUV,Lắp ráp trong nước,0 Km,Cam,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,59000000,2023
+608,Xe VinFast VF8 Plus 2023,VinFast,xe-vinfast-vf8-plus-2023-4898596,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1087000000,2023
+609,Xe Mercedes Benz E class E200 2016,Mercedes Benz,xe-mercedes_benz-e_class-e200-2016-4681914,Sedan,Lắp ráp trong nước,"41,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1180000000,2016
+610,Xe BMW 7 Series 730Li 2019,BMW,xe-bmw-7_series-730li-2019-4236173,Sedan,Nhập khẩu,"30,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2850000000,2019
+611,Xe Ford Ranger Raptor 2023,Ford,xe-ford-ranger-raptor-2023-4876668,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,,diesel,Số tự động,4WD - Dẫn động 4 bánh,1299000000,2023
+612,Xe Toyota Innova G 2007,Toyota,xe-toyota-innova-g-2007-4906101,Crossover,Lắp ráp trong nước,0 Km,Bạc,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,38000000,2007
+613,Xe Ford Everest Ambiente 2.0L 4x2 AT 2023,Ford,xe-ford-everest-ambiente-2.0l-4x2-at-2023-4523666,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1099000000,2023
+614,Xe Mazda 3 1.5 AT 2015,Mazda,xe-mazda-3-1.5-at-2015-4921638,Sedan,Lắp ráp trong nước,"80,000 Km",Vàng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,18000000,2015
+615,Xe Kia Sedona 3.3 GAT Premium 2020,Kia,xe-kia-sedona-3.3-gat-premium-2020-4913971,Van/Minivan,Lắp ráp trong nước,"30,000 Km",Đen,7 chỗ,3.3 L,,Số tự động,FWD - Dẫn động cầu trước,1019000000,2020
+616,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4864929,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Ghi,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,35000000,2023
+617,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4879762,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,37000000,2023
+618,Xe Mercedes Benz C class C300 AMG 2022,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2022-4803338,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2199000000,2022
+619,Xe Hyundai i10 Grand 1.2 MT 2019,Hyundai,xe-hyundai-i10-grand-1.2-mt-2019-4660464,Sedan,Lắp ráp trong nước,"44,000 Km",Bạc,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,15000000,2019
+620,Xe Hyundai i10 1.2 MT 2018,Hyundai,xe-hyundai-i10-1.2-mt-2018-4935522,Sedan,Lắp ráp trong nước,"89,000 Km",Cát,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,80000000,2018
+621,Xe Kia Rondo DAT 2017,Kia,xe-kia-rondo-dat-2017-4780736,SUV,Lắp ráp trong nước,"69,000 Km",Trắng,7 chỗ,1.7 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2017
+622,Xe VinFast Fadil 1.4 AT Premium 2020,VinFast,xe-vinfast-fadil-1.4-at-premium-2020-4869619,Hatchback,Lắp ráp trong nước,"19,000 Km",Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,76000000,2020
+623,Xe Chevrolet Spark Van 1.0 AT 2012,Chevrolet,xe-chevrolet-spark-van-1.0-at-2012-4898911,Van/Minivan,Nhập khẩu,"1,000 Km",Trắng,2 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2012
+624,Xe Mitsubishi Outlander 2.0 CVT 2022,Mitsubishi,xe-mitsubishi-outlander-2.0-cvt-2022-4893808,SUV,Lắp ráp trong nước,"15,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2022
+625,Xe Daewoo Gentra 2009,Daewoo,xe-daewoo-gentra--2009-4935521,Sedan,Lắp ráp trong nước,"1,500,000 Km",Đen,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,40000000,2009
+626,Xe Hyundai Tucson 2.0 AT CRDi Đặc biệt 2022,Hyundai,xe-hyundai-tucson-2.0-at-crdi-dac-biet-2022-4894108,Crossover,Lắp ráp trong nước,"9,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,1020000000,2022
+627,Xe Chevrolet Spark Van 1.0 AT 2011,Chevrolet,xe-chevrolet-spark-van-1.0-at-2011-4859923,Van/Minivan,Nhập khẩu,"1,000 Km",Trắng,2 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2011
+628,Xe Kia Carnival Signature 2.2D 2023,Kia,xe-kia-carnival-signature-2.2d-2023-4885529,Van/Minivan,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1529000000,2023
+629,Xe Mercedes Benz GLC 300 4Matic 2019,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2019-4916980,SUV,Lắp ráp trong nước,"24,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1579000000,2019
+630,Xe Mercedes Benz C class C300 AMG 2018,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2018-4929819,Sedan,Lắp ráp trong nước,"16,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1379000000,2018
+631,Xe Kia K5 Premium 2.0 AT 2023,Kia,xe-kia-k5-premium-2.0-at-2023-4898620,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,4000000,2023
+632,Xe Mercedes Benz GLC 300 4Matic 2020,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2020-4929776,SUV,Lắp ráp trong nước,"24,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1579000000,2020
+633,Xe Ford Everest 2.5L 4x2 AT 2012,Ford,xe-ford-everest-2.5l-4x2-at-2012-4768873,SUV,Lắp ráp trong nước,"11,000 Km",Đen,8 chỗ,2.5 L,,Số tự động,RFD - Dẫn động cầu sau,99000000,2012
+634,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4623510,SUV,Nhập khẩu,0 Km,Bạc,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1245000000,2023
+635,Xe Ford Ranger Raptor 2.0L 4x4 AT 2020,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2020-4914950,Bán tải / Pickup,Nhập khẩu,"56,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,99000000,2020
+636,Xe Ford Ranger XLS 2.2L 4x2 AT 2017,Ford,xe-ford-ranger-xls-2.2l-4x2-at-2017-4889777,Bán tải / Pickup,Nhập khẩu,"80,000 Km",Xanh,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,18000000,2017
+637,Xe Daewoo Lacetti CDX 1.6 AT 2009,Daewoo,xe-daewoo-lacetti-cdx-1.6-at-2009-4913780,Sedan,Nhập khẩu,"79,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,27000000,2009
+638,Xe Mercedes Benz GLC 200 2021,Mercedes Benz,xe-mercedes_benz-glc-200-2021-4928604,SUV,Lắp ráp trong nước,"17,990 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1539000000,2021
+639,Xe Lexus RX 350 2007,Lexus,xe-lexus-rx-350-2007-4935509,SUV,Nhập khẩu,"113,000 Km",Cát,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,4700000000,2007
+640,Xe Mitsubishi Xpander Cross 1.5 AT 2020,Mitsubishi,xe-mitsubishi-xpander-cross-1.5-at-2020-4934333,SUV,Nhập khẩu,"35,000 Km",Bạc,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,5000000,2020
+641,Xe Toyota Corolla Cross 1.8V 2022,Toyota,xe-toyota-corolla_cross-1.8v-2022-4904245,SUV,Nhập khẩu,0 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2022
+642,Xe Porsche Macan 2.0 2015,Porsche,xe-porsche-macan-2.0-2015-4558076,SUV,Nhập khẩu,"60,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2380000000,2015
+643,Xe Toyota Corolla Cross 1.8V 2022,Toyota,xe-toyota-corolla_cross-1.8v-2022-4903382,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,63000000,2022
+644,Xe Toyota Camry 2.0Q 2023,Toyota,xe-toyota-camry-2.0q-2023-4856574,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,1228000000,2023
+645,Xe Toyota Corolla altis 1.8V 2023,Toyota,xe-toyota-corolla_altis-1.8v-2023-4858452,Sedan,Nhập khẩu,0 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,45000000,2023
+646,Xe Mitsubishi Xpander Premium 1.5 AT 2023,Mitsubishi,xe-mitsubishi-xpander-premium-1.5-at-2023-4177304,SUV,Nhập khẩu,0 Km,Nâu,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,46000000,2023
+647,Xe Lexus RX 350 AWD 2009,Lexus,xe-lexus-rx-350-awd-2009-4834374,SUV,Nhập khẩu,"100,000 Km",Đỏ,5 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,25000000,2009
+648,Xe Kia Morning SLX 1.0 AT 2009,Kia,xe-kia-morning-slx-1.0-at-2009-4894697,Hatchback,Nhập khẩu,"6,789 Km",Đỏ,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,9000000,2009
+649,Xe Porsche Macan 2.0 2015,Porsche,xe-porsche-macan-2.0-2015-4558100,SUV,Nhập khẩu,"59,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2380000000,2015
+650,Xe LandRover Range Rover Evoque Dynamic 2014,LandRover,xe-landrover-range_rover_evoque-dynamic-2014-4738017,SUV,Nhập khẩu,"60,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1250000000,2014
+651,Xe Toyota Land Cruiser VX.R 5.7 V8 2016,Toyota,xe-toyota-land_cruiser-vx.r-5.7-v8-2016-4757742,SUV,Nhập khẩu,"30,000 Km",Đen,8 chỗ,5.7 L,,Số tự động,AWD - 4 bánh toàn thời gian,5350000000,2016
+652,Xe Kia Seltos Luxury 1.4 AT 2021,Kia,xe-kia-seltos-luxury-1.4-at-2021-4752407,Crossover,Lắp ráp trong nước,"30,000 Km",Đen,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2021
+653,Xe BMW 7 Series 730Li 2011,BMW,xe-bmw-7_series-730li-2011-4516521,Sedan,Nhập khẩu,"50,000 Km",Đen,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,1130000000,2011
+654,Xe Hyundai Kona AT 2019,Hyundai,xe-hyundai-kona-at-2019-4933698,SUV,Lắp ráp trong nước,"50,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,99000000,2019
+655,Xe Hyundai Accent 1.4 AT 2019,Hyundai,xe-hyundai-accent-1.4-at-2019-4933620,Sedan,Lắp ráp trong nước,"58,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,0,2019
+656,Xe Ford Ranger Wildtrak 3.2L 4x4 AT 2015,Ford,xe-ford-ranger-wildtrak-3.2l-4x4-at-2015-4803677,Bán tải / Pickup,Nhập khẩu,"90,000 Km",Cam,5 chỗ,3.2 L,,Số tự động,4WD - Dẫn động 4 bánh,25000000,2015
+657,Xe Mercedes Benz E class E200 Exclusive 2022,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2022-4903740,Sedan,Lắp ráp trong nước,"10,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2159000000,2022
+658,Xe Hyundai Tucson 1.6 AT Turbo HTRAC Đặc biệt 2023,Hyundai,xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2023-4911057,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,1045000000,2023
+659,Xe Mercedes Benz GLC 200 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2022-4575391,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2189000000,2022
+660,Xe Ford Ranger Limited 2.0 4x4 AT 2022,Ford,xe-ford-ranger-limited-2.0-4x4-at-2022-4521020,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,,diesel,Số tự động,4WD - Dẫn động 4 bánh,30000000,2022
+661,Xe Hyundai i10 Grand 1.2 AT 2018,Hyundai,xe-hyundai-i10-grand-1.2-at-2018-4906361,Hatchback,Lắp ráp trong nước,"50,000 Km",Trắng,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,68000000,2018
+662,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4864823,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,37000000,2023
+663,Xe Mercedes Benz GLC 200 2020,Mercedes Benz,xe-mercedes_benz-glc-200-2020-4934470,SUV,Lắp ráp trong nước,"39,999 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1369000000,2020
+664,Xe Hyundai SantaFe 2.2L HTRAC 2019,Hyundai,xe-hyundai-santafe-2.2l-htrac-2019-4931816,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,9000000,2019
+665,Xe Ford Everest Titanium Plus 2.0L 4x4 AT 2023,Ford,xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-4879890,SUV,Nhập khẩu,0 Km,Nâu,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1452000000,2023
+666,Xe Lexus LX 570 MBS 2020,Lexus,xe-lexus-lx-570-mbs-2020-4935497,SUV,Nhập khẩu,"25,660 Km",Trắng,4 chỗ,,Xăng,Số tự động,-,9500000000,2020
+667,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4864805,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,45000000,2023
+668,Xe Mercedes Benz C class C180FL sản xuất 2020,Mercedes Benz,xe-mercedes_benz-c_class-c180fl-san-xuat-2020-4935491,Sedan,Lắp ráp trong nước,"18,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,RFD - Dẫn động cầu sau,1068000000,2020
+669,Xe Ford Ranger Wildtrak 3.2L 4x4 AT 2017,Ford,xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-4838765,Bán tải / Pickup,Nhập khẩu,0 Km,Cam,5 chỗ,3.2 L,,Số tự động,4WD - Dẫn động 4 bánh,80000000,2017
+670,Xe Ford Territory Titanium X 1.5 AT 2023,Ford,xe-ford-territory-titanium-x-1.5-at-2023-4910600,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2023
+671,Xe Mitsubishi Triton Athlete 4x4 AT 2023,Mitsubishi,xe-mitsubishi-triton-athlete-4x4-at-2023-4922171,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.4 L,,Số tự động,4WD - Dẫn động 4 bánh,30000000,2023
+672,Xe VinFast VF e34 2022,VinFast,xe-vinfast-vf-e34--2022-4935473,Hatchback,Lắp ráp trong nước,"8,000 Km",Đỏ,5 chỗ,,Điện,Số tự động,FWD - Dẫn động cầu trước,65000000,2022
+673,Xe Honda City 1.5 2020,Honda,xe-honda-city-1.5-2020-4928835,Sedan,Lắp ráp trong nước,"40,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2020
+674,Xe Mercedes Benz GLC 300 4Matic 2020,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2020-4894461,SUV,Lắp ráp trong nước,"25,600 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1899000000,2020
+675,Xe Mazda 3 Sport Luxury 2020,Mazda,xe-mazda-3-sport-luxury-2020-4843346,Hatchback,Lắp ráp trong nước,"580,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2020
+676,Xe Lexus RX 350 2020,Lexus,xe-lexus-rx-350-2020-4705203,SUV,Nhập khẩu,"35,000 Km",Đen,5 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,3650000000,2020
+677,Xe Lexus RX 350 2020,Lexus,xe-lexus-rx-350-2020-4628786,SUV,Nhập khẩu,"30,000 Km",Trắng,5 chỗ,3.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,3650000000,2020
+678,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4889608,SUV,Lắp ráp trong nước,"9,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2379000000,2022
+679,Xe VinFast VF e34 AT 2023,VinFast,xe-vinfast-vf-e34-at-2023-4829174,Crossover,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,,Hybrid,Số tự động,FWD - Dẫn động cầu trước,0,2023
+680,Xe Mercedes Benz C class C180 AMG 2021,Mercedes Benz,xe-mercedes_benz-c_class-c180-amg-2021-4451450,Sedan,Lắp ráp trong nước,"2,000 Km",Đen,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1288000000,2021
+681,Xe VinFast VF8 Eco 2022,VinFast,xe-vinfast-vf8-eco-2022-4548318,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,16000000,2022
+682,Xe Suzuki Ciaz 1.4 AT 2019,Suzuki,xe-suzuki-ciaz-1.4-at-2019-4868905,Sedan,Nhập khẩu,"20,000 Km",Đen,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,38000000,2019
+683,Xe Mercedes Benz S class S450 Luxury 2022,Mercedes Benz,xe-mercedes_benz-s_class-s450-luxury-2022-4868722,Sedan,Nhập khẩu,"1,000 Km",Xanh,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,5399000000,2022
+684,Xe Ford Transit Tiêu chuẩn 2023,Ford,xe-ford-transit-tieu-chuan-2023-4880632,Van/Minivan,Lắp ráp trong nước,0 Km,Trắng,16 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,45000000,2023
+685,Xe BMW 5 Series 520i Luxury Line 2022,BMW,xe-bmw-5_series-520i-luxury-line-2022-4777539,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2139000000,2022
+686,Xe Mercedes Benz C class C300 AMG 2016,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2016-4899792,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,90000000,2016
+687,Xe Mercedes Benz CLA class CLA 250 4Matic 2015,Mercedes Benz,xe-mercedes_benz-cla_class-cla-250-4matic-2015-4611073,Sedan,Nhập khẩu,"58,700 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,0,2015
+688,Xe Mitsubishi Attrage 1.2 CVT 2023,Mitsubishi,xe-mitsubishi-attrage-1.2-cvt-2023-4847420,Sedan,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2023
+689,Xe Ford Mustang 2.3 EcoBoost Premium Fastback 2021,Ford,xe-ford-mustang-2.3-ecoboost-premium-fastback-2021-4903295,Coupe,Nhập khẩu,0 Km,Đỏ,4 chỗ,2.3 L,,Số tự động,RFD - Dẫn động cầu sau,3150000000,2021
+690,Xe Mercedes Benz E class E300 AMG 2023,Mercedes Benz,xe-mercedes_benz-e_class-e300-amg-2023-4898532,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,3050000000,2023
+691,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-4893424,SUV,Lắp ráp trong nước,"1,500 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1849000000,2022
+692,Xe Hyundai SantaFe Cao cấp 2.5L HTRAC 2022,Hyundai,xe-hyundai-santafe-cao-cap-2.5l-htrac-2022-2545274,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,2.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,1201000000,2022
+693,Xe Mazda 3 2.0L Premium 2019,Mazda,xe-mazda-3-2.0l-premium-2019-4913360,Sedan,Lắp ráp trong nước,"53,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,88000000,2019
+694,Xe Hyundai i10 Grand 1.2 MT Base 2017,Hyundai,xe-hyundai-i10-grand-1.2-mt-base-2017-4873353,Hatchback,Nhập khẩu,"69,696 Km",Trắng,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,34000000,2017
+695,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4868703,SUV,Lắp ráp trong nước,500 Km,Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2479000000,2022
+696,Xe Ford EcoSport Titanium 1.5 AT 2021,Ford,xe-ford-ecosport-titanium-1.5-at-2021-4897800,SUV,Lắp ráp trong nước,"4,600 Km",Cam,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2021
+697,Xe Hyundai Tucson 1.6 AT Turbo HTRAC Đặc biệt 2022,Hyundai,xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2022-4881450,Crossover,Lắp ráp trong nước,"11,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,1030000000,2022
+698,Xe Mercedes Benz S class S450L 2017,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2017-4930621,Sedan,Lắp ráp trong nước,"64,000 Km",Màu khác,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,2550000000,2017
+699,Xe Nissan Almera VL 1.0 CVT Cao cấp 2023,Nissan,xe-nissan-almera-vl-1.0-cvt-cao-cap-2023-4911382,Sedan,Nhập khẩu,0 Km,Đen,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2023
+700,Xe Ford Ranger wildtrak 2023,Ford,xe-ford-ranger---wildtrak-2023-4935486,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Vàng,5 chỗ,,diesel,Số tự động,4WD - Dẫn động 4 bánh,5000000,2023
+701,Xe Ford Ranger XLS 2.2L 4x2 AT 2016,Ford,xe-ford-ranger-xls-2.2l-4x2-at-2016-4909199,Bán tải / Pickup,Nhập khẩu,"110,000 Km",Xanh,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,95000000,2016
+702,Xe Toyota Vios G 1.5 CVT 2022,Toyota,xe-toyota-vios-g-1.5-cvt-2022-304604,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,92000000,2022
+703,Xe Toyota Corolla Cross 1.8G 2022,Toyota,xe-toyota-corolla_cross-1.8g-2022-4832157,SUV,Nhập khẩu,0 Km,Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,5000000,2022
+704,Xe Mitsubishi Xpander Premium 1.5 AT 2022,Mitsubishi,xe-mitsubishi-xpander-premium-1.5-at-2022-4432010,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2022
+705,Xe Kia Cerato 1.6 AT Luxury 2020,Kia,xe-kia-cerato-1.6-at-luxury-2020-4913649,Sedan,Lắp ráp trong nước,"32,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,52000000,2020
+706,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4549579,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Xám,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,38000000,2023
+707,Xe BMW 2 Series 218i Active Tourer 2017,BMW,xe-bmw-2_series-218i-active-tourer-2017-4930387,Crossover,Nhập khẩu,"60,000 Km",Xanh,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,22000000,2017
+708,Xe Mazda 6 2.5 AT 2016,Mazda,xe-mazda-6-2.5-at-2016-4720368,Sedan,Lắp ráp trong nước,"68,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,82000000,2016
+709,Xe Kia Carnival Luxury 2.2D 2023,Kia,xe-kia-carnival-luxury-2.2d-2023-4915090,Van/Minivan,Lắp ráp trong nước,0 Km,Trắng,8 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1289000000,2023
+710,Xe Porsche Cayenne S 2018,Porsche,xe-porsche-cayenne-s-2018-4401567,SUV,Nhập khẩu,"50,000 Km",Nâu,5 chỗ,2.9 L,,Số tự động,AWD - 4 bánh toàn thời gian,5900000000,2018
+711,Xe Honda City L 1.5 AT 2023,Honda,xe-honda-city-l-1.5-at-2023-4891956,Sedan,Lắp ráp trong nước,0 Km,Bạc,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,19000000,2023
+712,Xe Isuzu Dmax LS 2.5 4x2 MT 2016,Isuzu,xe-isuzu-dmax-ls-2.5-4x2-mt-2016-4874615,Bán tải / Pickup,Nhập khẩu,"86,353 Km",Vàng,5 chỗ,2.5 L,,Số tay,RFD - Dẫn động cầu sau,95000000,2016
+713,Xe Ford Ranger Wildtrak 3.2L 4x4 AT 2017,Ford,xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-4869731,Bán tải / Pickup,Nhập khẩu,"83,000 Km",Cam,5 chỗ,3.2 L,,Số tự động,4WD - Dẫn động 4 bánh,60000000,2017
+714,Xe Hyundai Tucson 2.0 AT CRDi 2018,Hyundai,xe-hyundai-tucson-2.0-at-crdi-2018-4667553,Crossover,Lắp ráp trong nước,"62,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2018
+715,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4769240,SUV,Lắp ráp trong nước,50 Km,Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2479000000,2022
+716,Xe Toyota Vios G 1.5 CVT 2023,Toyota,xe-toyota-vios-g-1.5-cvt-2023-3681578,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,32000000,2023
+717,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4909615,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1286000000,2023
+718,Xe Mazda CX5 2.5 Luxury 2020,Mazda,xe-mazda-cx5-2.5-luxury-2020-4879926,SUV,Lắp ráp trong nước,"30,120 Km",Đỏ,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2020
+719,Xe Mercedes Benz Maybach S450 4Matic 2019,Mercedes Benz,xe-mercedes_benz-maybach-s450-4matic-2019-4686401,Sedan,Nhập khẩu,450 Km,Trắng,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,6150000000,2019
+720,Xe Mercedes Benz C class C300 AMG 2020,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2020-4848446,Sedan,Lắp ráp trong nước,"37,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1429000000,2020
+721,Xe Lexus GX 460 2010,Lexus,xe-lexus-gx-460-2010-4864855,SUV,Nhập khẩu,"89,000 Km",Xanh,7 chỗ,4.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,1850000000,2010
+722,Xe Nissan Kicks e-Power E 2022,Nissan,xe-nissan-kicks-e-power-e-2022-4688363,SUV,Nhập khẩu,0 Km,Xanh,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2022
+723,Xe Nissan X trail 2.0 2WD 2017,Nissan,xe-nissan-x_trail-2.0-2wd-2017-4621295,SUV,Lắp ráp trong nước,"49,000 Km",Đen,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2017
+724,Xe Hyundai Tucson 1.6 AT Turbo HTRAC Đặc biệt 2021,Hyundai,xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2021-4892415,Crossover,Lắp ráp trong nước,"10,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,85000000,2021
+725,Xe Mercedes Benz C class C250 Exclusive 2018,Mercedes Benz,xe-mercedes_benz-c_class-c250-exclusive-2018-4489804,Sedan,Lắp ráp trong nước,"39,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1038000000,2018
+726,Xe Porsche Macan 2.0 2022,Porsche,xe-porsche-macan-2.0-2022-4723016,SUV,Nhập khẩu,0 Km,Cam,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3800000000,2022
+727,Xe Kia Sonet Deluxe 1.5 AT 2023,Kia,xe-kia-sonet-deluxe-1.5-at-2023-4260619,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,54000000,2023
+728,Xe Ford Territory Trend 1.5 AT 2023,Ford,xe-ford-territory-trend-1.5-at-2023-4645913,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,67000000,2023
+729,Xe Ford Everest Ambiente 2.0 4x2 AT 2019,Ford,xe-ford-everest-ambiente-2.0-4x2-at-2019-4918968,SUV,Nhập khẩu,"58,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2019
+730,Xe Ford Everest Titanium 2.0L 4x2 AT 2020,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2020-4921948,SUV,Nhập khẩu,"140,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,30000000,2020
+731,Xe Toyota Vios 1.5G 2019,Toyota,xe-toyota-vios-1.5g-2019-4911763,Sedan,Lắp ráp trong nước,"55,000 Km",Vàng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2019
+732,Xe Ford Territory Trend 1.5 AT 2023,Ford,xe-ford-territory-trend-1.5-at-2023-4679931,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2023
+733,Xe Mercedes Benz E class E200 2016,Mercedes Benz,xe-mercedes_benz-e_class-e200-2016-4719538,Sedan,Lắp ráp trong nước,"40,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1239000000,2016
+734,Xe Toyota Prado VX 2.7L 2019,Toyota,xe-toyota-prado-vx-2.7l-2019-4905436,SUV,Nhập khẩu,"60,000 Km",Đen,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,2050000000,2019
+735,Xe Mercedes Benz GLS 450 4Matic 2022,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2022-4894494,SUV,Nhập khẩu,"3,000 Km",Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,5499000000,2022
+736,Xe Mercedes Benz GLC 200 4Matic 2021,Mercedes Benz,xe-mercedes_benz-glc-200-4matic-2021-4684424,SUV,Lắp ráp trong nước,"16,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1799000000,2021
+737,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4471284,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1252000000,2023
+738,Xe Audi Q7 3.6 AT 2010,Audi,xe-audi-q7-3.6-at-2010-4821614,SUV,Nhập khẩu,0 Km,Nâu,7 chỗ,3.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,35000000,2010
+739,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4642119,SUV,Lắp ráp trong nước,19 Km,Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2499000000,2022
+740,Xe Ford F150 Harley Davidson 2018,Ford,xe-ford-f150-harley-davidson-2018-4531796,Bán tải / Pickup,Nhập khẩu,"17,000 Km",Đen,5 chỗ,3.5 L,,Số tự động,4WD - Dẫn động 4 bánh,6990000000,2018
+741,Xe Porsche Cayenne 3.0 V6 2019,Porsche,xe-porsche-cayenne-3.0-v6-2019-4932721,SUV,Nhập khẩu,"20,000 Km",Xanh,5 chỗ,,Xăng,Số tự động,4WD hoặc AWD,3990000000,2019
+742,Xe Toyota Land Cruiser 5.7 V8 2016,Toyota,xe-toyota-land_cruiser-5.7-v8-2016-4926275,SUV,Nhập khẩu,"55,000 Km",Trắng,8 chỗ,5.7 L,,Số tự động,AWD - 4 bánh toàn thời gian,4899000000,2016
+743,Xe VinFast VF e34 AT 2022,VinFast,xe-vinfast-vf-e34-at-2022-4822629,Crossover,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,0.1 L,,Số tự động,FWD - Dẫn động cầu trước,40000000,2022
+744,Xe Toyota Raize G 1.0 CVT 2023,Toyota,xe-toyota-raize-g-1.0-cvt-2023-4828981,SUV,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.0 L,,Số tự động,FWD - Dẫn động cầu trước,52000000,2023
+745,Xe Ford Focus 2.0 AT 2011,Ford,xe-ford-focus-2.0-at-2011-4829314,Hatchback,Lắp ráp trong nước,"150,000 Km",Bạc,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2011
+746,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4879848,SUV,Nhập khẩu,0 Km,Bạc,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1245000000,2023
+747,Xe Mercedes Benz GLS 450 4Matic 2020,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2020-4889726,SUV,Nhập khẩu,"18,000 Km",Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4689000000,2020
+748,Xe Toyota Highlander SE 2.7 2011,Toyota,xe-toyota-highlander-se-2.7-2011-4903065,SUV,Nhập khẩu,"79,000 Km",Vàng,7 chỗ,2.7 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2011
+749,Xe Peugeot 3008 Allure 1.6 AT 2020,Peugeot,xe-peugeot-3008-allure-1.6-at-2020-4905874,Crossover,Lắp ráp trong nước,"36,000 Km",Đỏ,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2020
+750,Xe Mercedes Benz C class C200 2017,Mercedes Benz,xe-mercedes_benz-c_class-c200-2017-4805056,Sedan,Lắp ráp trong nước,"45,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,89000000,2017
+751,Xe BMW 4 Series 428i coupe 2014,BMW,xe-bmw-4_series-428i-coupe-2014-4935454,Coupe,Nhập khẩu,"18,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,1150000000,2014
+752,Xe Kia Morning SX 1.1 AT Sport 2011,Kia,xe-kia-morning-sx-1.1-at-sport-2011-4893580,Hatchback,Lắp ráp trong nước,"82,614 Km",Vàng,5 chỗ,1.1 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2011
+753,Xe Ford Focus Trend 1.5L 2018,Ford,xe-ford-focus-trend-1.5l-2018-4885981,Hatchback,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,5000000,2018
+754,Xe Toyota Yaris 1.3G 2015,Toyota,xe-toyota-yaris-1.3g-2015-4918403,Hatchback,Nhập khẩu,0 Km,Trắng,5 chỗ,1.3 L,,Số tự động,FWD - Dẫn động cầu trước,48000000,2015
+755,Xe Toyota Fortuner 2.7V 4x4 AT 2011,Toyota,xe-toyota-fortuner-2.7v-4x4-at-2011-4887542,SUV,Lắp ráp trong nước,"120,000 Km",Đen,8 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,85000000,2011
+756,Xe Honda CRV 2.4 AT 2013,Honda,xe-honda-crv-2.4-at-2013-4873190,SUV,Lắp ráp trong nước,"86,000 Km",Đen,5 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2013
+757,Xe LandRover Range Rover Evoque HSE Dynamic Convertible 2017,LandRover,xe-landrover-range_rover_evoque-hse-dynamic-convertible-2017-4874421,Convertible/Cabriolet,Nhập khẩu,"28,000 Km",Trắng,4 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3790000000,2017
+758,Xe Porsche Cayenne Turbo 2018,Porsche,xe-porsche-cayenne-turbo-2018-4786508,SUV,Nhập khẩu,"9,999 Km",Trắng,5 chỗ,4.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4439000000,2018
+759,Xe Lexus NX 200T 2015,Lexus,xe-lexus-nx-200t-2015-4935260,SUV,Nhập khẩu,"40,000 Km",Cát,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,1290000000,2015
+760,Xe Honda City 1.5 AT 2014,Honda,xe-honda-city-1.5-at-2014-4860294,Sedan,Lắp ráp trong nước,"75,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,79000000,2014
+761,Xe Mazda 3 2.0L Signature Premium 2020,Mazda,xe-mazda-3-2.0l-signature-premium-2020-4925224,Sedan,Lắp ráp trong nước,"17,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2020
+762,Xe Ford Ranger XLS 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x4-at-2023-4623514,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Ghi,5 chỗ,2.2 L,,Số tự động,4WD - Dẫn động 4 bánh,20000000,2023
+763,Xe Mitsubishi Outlander Premium 2.0 CVT 2023,Mitsubishi,xe-mitsubishi-outlander-premium-2.0-cvt-2023-4922150,SUV,Lắp ráp trong nước,0 Km,Nâu,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2023
+764,Xe Hyundai Tucson 2.0 ATH 2019,Hyundai,xe-hyundai-tucson-2.0-ath-2019-4913469,Crossover,Lắp ráp trong nước,"38,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2019
+765,Xe VinFast Lux A 2.0 2.0 AT 2021,VinFast,xe-vinfast-lux_a_2.0-2.0-at-2021-4928192,Sedan,Lắp ráp trong nước,"30,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,66000000,2021
+766,Xe Hyundai SantaFe Cao cấp 2.4L HTRAC 2021,Hyundai,xe-hyundai-santafe-cao-cap-2.4l-htrac-2021-4932152,SUV,Lắp ráp trong nước,"39,000 Km",Trắng,7 chỗ,2.4 L,,Số tự động,AWD - 4 bánh toàn thời gian,99000000,2021
+767,Xe Rolls Royce Ghost 6.6 V12 2010,Rolls Royce,xe-rolls_royce-ghost-6.6-v12-2010-4708520,Sedan,Nhập khẩu,0 Km,Trắng,4 chỗ,6.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,7900000000,2010
+768,Xe VinFast VF8 Plus 2022,VinFast,xe-vinfast-vf8-plus-2022-4872943,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1087000000,2022
+769,Xe Isuzu Dmax Hi-Lander 4X2 AT 2022,Isuzu,xe-isuzu-dmax-hi-lander-4x2-at-2022-4827478,Bán tải / Pickup,Nhập khẩu,0 Km,Đen,5 chỗ,1.9 L,,Số tự động,RFD - Dẫn động cầu sau,40000000,2022
+770,Xe Mitsubishi Attrage Premium 1.2 CVT 2022,Mitsubishi,xe-mitsubishi-attrage-premium-1.2-cvt-2022-4843243,Sedan,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2022
+771,Xe Mitsubishi Triton Athlete 4x4 AT Mivec 2023,Mitsubishi,xe-mitsubishi-triton-athlete-4x4-at-mivec-2023-4269829,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.4 L,,Số tự động,4WD - Dẫn động 4 bánh,5000000,2023
+772,Xe Ford Everest Titanium 2.0L 4x2 AT 2023,Ford,xe-ford-everest-titanium-2.0l-4x2-at-2023-4859590,SUV,Nhập khẩu,0 Km,Bạc,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1226000000,2023
+773,Xe Ford EcoSport Titanium 1.5L AT 2018,Ford,xe-ford-ecosport-titanium-1.5l-at-2018-4918435,SUV,Lắp ráp trong nước,"56,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2018
+774,Xe Mazda 3 1.5L Sport Premium 2019,Mazda,xe-mazda-3-1.5l-sport-premium-2019-4904973,Hatchback,Lắp ráp trong nước,"34,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2019
+775,Xe Mercedes Benz C class C300 AMG 2019,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2019-4904576,Sedan,Lắp ráp trong nước,"35,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1385000000,2019
+776,Xe Mazda 3 1.5 AT 2017,Mazda,xe-mazda-3-1.5-at-2017-4932232,Sedan,Lắp ráp trong nước,"70,000 Km",Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2017
+777,Xe Honda CRV L 2020,Honda,xe-honda-crv-l-2020-4933766,SUV,Nhập khẩu,"40,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,15000000,2020
+778,Xe Mitsubishi Xpander Cross 1.5 AT 2020,Mitsubishi,xe-mitsubishi-xpander-cross-1.5-at-2020-4769109,SUV,Nhập khẩu,"10,000 Km",Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,15000000,2020
+779,Xe Toyota Veloz 1.5 TOP 2023,Toyota,xe-toyota-veloz-1.5-top-2023-4935128,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,58000000,2023
+780,Xe Ford Transit Tiêu chuẩn 2023,Ford,xe-ford-transit-tieu-chuan-2023-4917149,Van/Minivan,Lắp ráp trong nước,0 Km,Bạc,16 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,49000000,2023
+781,Xe Mitsubishi Xpander 1.5 MT 2019,Mitsubishi,xe-mitsubishi-xpander-1.5-mt-2019-4880026,SUV,Nhập khẩu,"55,000 Km",Nâu,7 chỗ,1.5 L,,Số tay,FWD - Dẫn động cầu trước,65000000,2019
+782,Xe Ford Ranger Wildtrak 2.0L 4x2 AT 2018,Ford,xe-ford-ranger-wildtrak-2.0l-4x2-at-2018-4597329,Bán tải / Pickup,Nhập khẩu,0 Km,Cam,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,50000000,2018
+783,Xe Toyota Corolla altis 1.8 G 2017,Toyota,xe-toyota-corolla_altis-1.8-g-2017-4935449,Sedan,Lắp ráp trong nước,"61,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,65000000,2017
+784,Xe Hyundai Terracan 3.5 MT 2004,Hyundai,xe-hyundai-terracan-3.5-mt-2004-4757833,SUV,Nhập khẩu,"250,000 Km",Xanh,5 chỗ,3.5 L,,Số tay,4WD - Dẫn động 4 bánh,75000000,2004
+785,Xe Toyota Innova 2.0E 2016,Toyota,xe-toyota-innova-2.0e-2016-4482888,Crossover,Lắp ráp trong nước,"69,379 Km",Cát,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,95000000,2016
+786,Xe Isuzu MU-X 1.9 4X2 MT 2019,Isuzu,xe-isuzu-mu-x-1.9-4x2-mt-2019-4923421,SUV,Nhập khẩu,"30,000 Km",Trắng,7 chỗ,1.9 L,,Số tay,RFD - Dẫn động cầu sau,95000000,2019
+787,Xe Nissan Sunny XV Premium 2018,Nissan,xe-nissan-sunny-xv-premium-2018-4932444,Sedan,Lắp ráp trong nước,"40,000 Km",Màu khác,5 chỗ,,Xăng,Số tự động,-,10000000,2018
+788,Xe Chevrolet Trailblazer LTZ 2.5L VGT 4x4 AT 2018,Chevrolet,xe-chevrolet-trailblazer-ltz-2.5l-vgt-4x4-at-2018-4722766,SUV,Nhập khẩu,"50,000 Km",Trắng,7 chỗ,2.5 L,,Số tự động,AWD - 4 bánh toàn thời gian,20000000,2018
+789,Xe Toyota Innova 2.0E 2016,Toyota,xe-toyota-innova-2.0e-2016-4808491,Crossover,Lắp ráp trong nước,"82,339 Km",Cát,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,89000000,2016
+790,Xe Toyota Innova Venturer 2.0 AT 2023,Toyota,xe-toyota-innova-venturer-2.0-at-2023-4617710,Crossover,Lắp ráp trong nước,0 Km,Trắng,8 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,45000000,2023
+791,Xe Mitsubishi Outlander 2.0 CVT 2019,Mitsubishi,xe-mitsubishi-outlander-2.0-cvt-2019-4871361,SUV,Lắp ráp trong nước,"50,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2019
+792,Xe Toyota Innova 2.0E 2016,Toyota,xe-toyota-innova-2.0e-2016-4731953,Crossover,Lắp ráp trong nước,"80,368 Km",Kem,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,96000000,2016
+793,Xe Toyota Camry 2.5Q 2019,Toyota,xe-toyota-camry-2.5q-2019-4881408,Sedan,Nhập khẩu,"32,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1000000000,2019
+794,Xe Toyota Land Cruiser 3.5 V6 2021,Toyota,xe-toyota-land_cruiser-3.5-v6-2021-4822251,SUV,Nhập khẩu,"20,000 Km",Đen,7 chỗ,3.4 L,,Số tự động,AWD - 4 bánh toàn thời gian,4890000000,2021
+795,Xe Toyota Corolla altis 1.8G AT 2017,Toyota,xe-toyota-corolla_altis-1.8g-at-2017-4871996,Sedan,Lắp ráp trong nước,"60,000 Km",Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,22000000,2017
+796,Xe Subaru Forester 2.0i-L EyeSight 2023,Subaru,xe-subaru-forester-2.0i-l-eyesight-2023-4881225,SUV,Nhập khẩu,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1199000000,2023
+797,Xe Ford Territory Trend 1.5 AT 2023,Ford,xe-ford-territory-trend-1.5-at-2023-4880650,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2023
+798,Xe Nissan Navara Pro-4X 2.3 AT 4WD 2022,Nissan,xe-nissan-navara-pro-4x-2.3-at-4wd-2022-4819421,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.3 L,,Số tự động,4WD - Dẫn động 4 bánh,55000000,2022
+799,Xe Mazda 3 1.5 AT 2017,Mazda,xe-mazda-3-1.5-at-2017-4866152,Sedan,Lắp ráp trong nước,"60,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2017
+800,Xe Ford Territory Trend 1.5 AT 2023,Ford,xe-ford-territory-trend-1.5-at-2023-4880650,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,60000000,2023
+801,Xe Nissan Navara Pro-4X 2.3 AT 4WD 2022,Nissan,xe-nissan-navara-pro-4x-2.3-at-4wd-2022-4819421,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.3 L,,Số tự động,4WD - Dẫn động 4 bánh,55000000,2022
+802,Xe Mazda 3 1.5 AT 2017,Mazda,xe-mazda-3-1.5-at-2017-4866152,Sedan,Lắp ráp trong nước,"60,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,95000000,2017
+803,Xe LandRover Range Rover Evoque Dynamic 2013,LandRover,xe-landrover-range_rover_evoque-dynamic-2013-4932080,SUV,Nhập khẩu,"58,000 Km",Đỏ,5 chỗ,,Xăng,Số tự động,AWD - 4 bánh toàn thời gian,19000000,2013
+804,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4516571,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Vàng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,32000000,2023
+805,Xe Toyota Vios 1.5E 2011,Toyota,xe-toyota-vios-1.5e-2011-4888415,Sedan,Lắp ráp trong nước,"11,000 Km",Cát,5 chỗ,1.5 L,,Số tay,FWD - Dẫn động cầu trước,5000000,2011
+806,Xe Mercedes Benz GLE Class GLE 450 4Matic 2023,Mercedes Benz,xe-mercedes_benz-gle_class-gle-450-4matic-2023-4211834,SUV,Nhập khẩu,0 Km,Đen,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4619000000,2023
+807,Xe Ford Everest Titanium 2.0L 4x4 AT 2019,Ford,xe-ford-everest-titanium-2.0l-4x4-at-2019-4703214,SUV,Nhập khẩu,"39,000 Km",Xanh,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1015000000,2019
+808,Xe Ford Fiesta Titanium 1.5 AT 2015,Ford,xe-ford-fiesta-titanium-1.5-at-2015-4906549,Sedan,Lắp ráp trong nước,"95,000 Km",Bạc,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2015
+809,Xe BMW M4 Coupe 2016,BMW,xe-bmw-m4-coupe-2016-4862772,Coupe,Nhập khẩu,"68,000 Km",Vàng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,2888000000,2016
+810,Xe Toyota Camry 2.0E 2016,Toyota,xe-toyota-camry-2.0e-2016-4928575,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2016
+811,Xe Toyota Fortuner TRD Sportivo 4x4 AT 2014,Toyota,xe-toyota-fortuner-trd-sportivo-4x4-at-2014-4732240,SUV,Lắp ráp trong nước,"88,000 Km",Trắng,8 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,68000000,2014
+812,Xe Mercedes Benz C class C200 Exclusive 2021,Mercedes Benz,xe-mercedes_benz-c_class-c200-exclusive-2021-4923710,Sedan,Lắp ráp trong nước,"14,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1399000000,2021
+813,Xe Hyundai Creta Tiêu chuẩn 1.5 AT 2022,Hyundai,xe-hyundai-creta-tieu-chuan-1.5-at-2022-4920286,Crossover,Nhập khẩu,0 Km,Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2022
+814,Xe Kia Rondo GAT 2018,Kia,xe-kia-rondo-gat-2018-4899787,SUV,Lắp ráp trong nước,"45,000 Km",Đỏ,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2018
+815,Xe Mercedes Benz E class E250 2011,Mercedes Benz,xe-mercedes_benz-e_class-e250-2011-4839472,Sedan,Lắp ráp trong nước,"110,000 Km",Trắng,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,9000000,2011
+816,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4894199,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,42000000,2023
+817,Xe Ford EcoSport Titanium 1.5L AT 2018,Ford,xe-ford-ecosport-titanium-1.5l-at-2018-4835335,SUV,Lắp ráp trong nước,"54,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,88000000,2018
+818,Xe Hyundai Elantra 2.0AT 2018,Hyundai,xe-hyundai-elantra-2.0at-2018-4935442,Sedan,Lắp ráp trong nước,"70,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,-,88000000,2018
+819,Xe Toyota Veloz Cross Top 1.5 CVT 2023,Toyota,xe-toyota-veloz-cross-top-1.5-cvt-2023-4308049,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,66000000,2023
+820,Xe Suzuki XL7 1.5 AT 2023,Suzuki,xe-suzuki-xl7-1.5-at-2023-4668579,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2023
+821,Xe Toyota Corolla Cross 1.8HV 2023,Toyota,xe-toyota-corolla_cross-1.8hv-2023-4206516,SUV,Nhập khẩu,0 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2023
+822,Xe Toyota Hilux 2.4E 4x2 AT 2019,Toyota,xe-toyota-hilux-2.4e-4x2-at-2019-4878263,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,45000000,2019
+823,Xe Mercedes Benz C class C200 Avantgarde Plus 2022,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-plus-2022-4817176,Sedan,Lắp ráp trong nước,50 Km,Đen,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1830000000,2022
+824,Xe Ford Territory Titanium 1.5 AT 2023,Ford,xe-ford-territory-titanium-1.5-at-2023-4616440,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,49000000,2023
+825,Xe Mitsubishi Triton 4x2 AT Mivec 2021,Mitsubishi,xe-mitsubishi-triton-4x2-at-mivec-2021-4905866,Bán tải / Pickup,Nhập khẩu,"32,000 Km",Đen,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,75000000,2021
+826,Xe Mitsubishi Xpander 1.5 MT 2023,Mitsubishi,xe-mitsubishi-xpander-1.5-mt-2023-4922124,SUV,Lắp ráp trong nước,0 Km,Nâu,7 chỗ,1.5 L,,Số tay,FWD - Dẫn động cầu trước,36000000,2023
+827,Xe Mercedes Benz S class S450L 2018,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2018-4726286,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3050000000,2018
+828,Xe Mitsubishi Triton 4x2 AT 2023,Mitsubishi,xe-mitsubishi-triton-4x2-at-2023-4922137,Bán tải / Pickup,Nhập khẩu,0 Km,Cam,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,90000000,2023
+829,Xe Mercedes Benz S class S450L Luxury 2018,Mercedes Benz,xe-mercedes_benz-s_class-s450l-luxury-2018-4726290,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,3350000000,2018
+830,Xe Kia Carnival Signature 2.2D 2022,Kia,xe-kia-carnival-signature-2.2d-2022-4911043,Van/Minivan,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1550000000,2022
+831,Xe Kia Morning 2015,Kia,xe-kia-morning--2015-4935427,Hatchback,Lắp ráp trong nước,"90,000 Km",Trắng,5 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,85000000,2015
+832,Xe Hyundai Kona 1.6 Turbo 2021,Hyundai,xe-hyundai-kona-1.6-turbo-2021-4641711,Crossover,Lắp ráp trong nước,"7,000 Km",Xanh,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2021
+833,Xe Hyundai Accent 1.4 AT Đặc Biệt 2023,Hyundai,xe-hyundai-accent-1.4-at-dac-biet-2023-4848847,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,5000000,2023
+834,Xe Kia Sonet Premium 1.5 AT 2023,Kia,xe-kia-sonet-premium-1.5-at-2023-4807583,Crossover,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,24000000,2023
+835,Xe Ford Everest Titanium Plus 2.0L 4x4 AT 2023,Ford,xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-4905544,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1452000000,2023
+836,Xe Hyundai Elantra 1.6 AT 2017,Hyundai,xe-hyundai-elantra-1.6-at-2017-4658765,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2017
+837,Xe Ford Territory Titanium 1.5 AT 2023,Ford,xe-ford-territory-titanium-1.5-at-2023-4859495,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,64000000,2023
+838,Xe Ford Transit Tiêu chuẩn 2023,Ford,xe-ford-transit-tieu-chuan-2023-4880636,Van/Minivan,Lắp ráp trong nước,0 Km,Nâu,16 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,45000000,2023
+839,Xe Toyota Prado VX 2.7L 2023,Toyota,xe-toyota-prado-vx-2.7l-2023-4296925,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,2588000000,2023
+840,Xe Toyota Land Cruiser Vx 2001,Toyota,xe-toyota-land_cruiser-vx-2001-4931928,SUV,Lắp ráp trong nước,1 Km,Xanh,8 chỗ,,Xăng,Số tự động,4WD hoặc AWD,59000000,2001
+841,Xe Volvo XC60 T6 AWD Inscription 2021,Volvo,xe-volvo-xc60-t6-awd-inscription-2021-4926951,SUV,Nhập khẩu,"13,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2020000000,2021
+842,Xe Hyundai Tucson 2.0 AT CRDi Đặc biệt 2022,Hyundai,xe-hyundai-tucson-2.0-at-crdi-dac-biet-2022-4905224,Crossover,Lắp ráp trong nước,"18,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,1028000000,2022
+843,Xe Mitsubishi Attrage Premium 1.2 CVT 2022,Mitsubishi,xe-mitsubishi-attrage-premium-1.2-cvt-2022-3893224,Sedan,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,90000000,2022
+844,Xe Toyota Camry 2.0E 2016,Toyota,xe-toyota-camry-2.0e-2016-4933990,Sedan,Lắp ráp trong nước,"49,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,6000000,2016
+845,Xe Honda City RS 1.5 AT 2023,Honda,xe-honda-city-rs-1.5-at-2023-4517826,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2023
+846,Xe Hyundai Tucson 2.0 AT CRDi Đặc biệt 2021,Hyundai,xe-hyundai-tucson-2.0-at-crdi-dac-biet-2021-4828423,Crossover,Lắp ráp trong nước,"19,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2021
+847,Xe Mercedes Benz C class C300 AMG 2023,Mercedes Benz,xe-mercedes_benz-c_class-c300-amg-2023-4902864,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1980000000,2023
+848,Xe Toyota Land Cruiser 3.5 V6 2023,Toyota,xe-toyota-land_cruiser-3.5-v6-2023-4811869,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,3.4 L,,Số tự động,AWD - 4 bánh toàn thời gian,5300000000,2023
+849,Xe Honda CRV L 2022,Honda,xe-honda-crv-l-2022-3325702,SUV,Lắp ráp trong nước,0 Km,Xanh,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,1118000000,2022
+850,Xe Mitsubishi Xpander 1.5 AT 2022,Mitsubishi,xe-mitsubishi-xpander-1.5-at-2022-4805119,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,98000000,2022
+851,Xe Toyota Fortuner Legender 2.8L 4x4 AT 2022,Toyota,xe-toyota-fortuner-legender-2.8l-4x4-at-2022-3490801,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.8 L,,Số tự động,4WD - Dẫn động 4 bánh,1478000000,2022
+852,Xe Toyota Fortuner 2.7V 4x2 AT 2021,Toyota,xe-toyota-fortuner-2.7v-4x2-at-2021-4883329,SUV,Nhập khẩu,"25,000 Km",Trắng,7 chỗ,2.7 L,,Số tự động,RFD - Dẫn động cầu sau,1070000000,2021
+853,Xe Toyota Innova G 2011,Toyota,xe-toyota-innova-g-2011-4897971,Crossover,Lắp ráp trong nước,"150,869 Km",Vàng,8 chỗ,2.0 L,,Số tay,RFD - Dẫn động cầu sau,75000000,2011
+854,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4910989,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Vàng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,0,2023
+855,Xe Mercedes Benz GLK Class GLK220 CDI 4Matic 2013,Mercedes Benz,xe-mercedes_benz-glk_class-glk220-cdi-4matic-2013-4919898,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.1 L,,Số tự động,AWD - 4 bánh toàn thời gian,45000000,2013
+856,Xe Hyundai Accent 1.4 MT 2022,Hyundai,xe-hyundai-accent-1.4-mt-2022-4834771,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,1.4 L,,Số tay,FWD - Dẫn động cầu trước,50000000,2022
+857,Xe Mitsubishi Outlander 2.0 CVT 2023,Mitsubishi,xe-mitsubishi-outlander-2.0-cvt-2023-4477643,SUV,Lắp ráp trong nước,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2023
+858,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4832716,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,5000000,2023
+859,Xe Hyundai SantaFe Cao cấp 2.2L HTRAC 2023,Hyundai,xe-hyundai-santafe-cao-cap-2.2l-htrac-2023-4770494,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1330000000,2023
+860,Xe VinFast Lux SA 2.0 Plus 2.0 AT 2020,VinFast,xe-vinfast-lux_sa_2.0-plus-2.0-at-2020-4638279,SUV,Lắp ráp trong nước,"50,000 Km",Đen,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,90000000,2020
+861,Xe Toyota Vios 1.5E 2016,Toyota,xe-toyota-vios-1.5e-2016-4819209,Sedan,Lắp ráp trong nước,"60,936 Km",Cát,5 chỗ,1.5 L,,Số tay,FWD - Dẫn động cầu trước,15000000,2016
+862,Xe Honda CRV 2.0 AT 2010,Honda,xe-honda-crv-2.0-at-2010-4915159,SUV,Nhập khẩu,0 Km,Xám,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,65000000,2010
+863,Xe Toyota Prado VX 2.7L 2021,Toyota,xe-toyota-prado-vx-2.7l-2021-4862753,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,2545000000,2021
+864,Xe Toyota Fortuner TRD Sportivo 4x4 AT 2011,Toyota,xe-toyota-fortuner-trd-sportivo-4x4-at-2011-4928709,SUV,Lắp ráp trong nước,"102,000 Km",Trắng,8 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,19000000,2011
+865,Xe Mazda CX5 2.5 AT 2WD 2018,Mazda,xe-mazda-cx5-2.5-at-2wd-2018-4874300,SUV,Lắp ráp trong nước,"42,000 Km",Xanh,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,25000000,2018
+866,Xe Mitsubishi Triton 4x2 AT Mivec 2019,Mitsubishi,xe-mitsubishi-triton-4x2-at-mivec-2019-4864814,Bán tải / Pickup,Nhập khẩu,0 Km,Đen,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,85000000,2019
+867,Xe Hyundai Tucson 1.6 AT Turbo 2018,Hyundai,xe-hyundai-tucson-1.6-at-turbo-2018-4847372,Crossover,Lắp ráp trong nước,0 Km,Cát,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2018
+868,Xe Ford Tourneo Limousine 2.0 AT 2019,Ford,xe-ford-tourneo-limousine-2.0-at-2019-4934945,Van/Minivan,Lắp ráp trong nước,"36,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,89000000,2019
+869,Xe Toyota Vios E 1.5AT CVT 2016,Toyota,xe-toyota-vios-e-1.5at-cvt-2016-4935432,Sedan,Lắp ráp trong nước,"10,000 Km",Vàng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,95000000,2016
+870,Xe Lexus IS 300 F Sport 2022,Lexus,xe-lexus-is-300-f-sport-2022-4905111,Sedan,Nhập khẩu,700 Km,Xanh,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2290000000,2022
+871,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4512439,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Bạc,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,10000000,2023
+872,Xe Mitsubishi Triton Athlete 4x2 AT 2023,Mitsubishi,xe-mitsubishi-triton-athlete-4x2-at-2023-4922170,Bán tải / Pickup,Nhập khẩu,0 Km,Cam,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,20000000,2023
+873,Xe Mercedes Benz S class S450L 2018,Mercedes Benz,xe-mercedes_benz-s_class-s450l-2018-4751237,Sedan,Lắp ráp trong nước,"20,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,2950000000,2018
+874,Xe Kia Sorento Signature 2.2 AT AWD 2022,Kia,xe-kia-sorento-signature-2.2-at-awd-2022-4814865,SUV,Lắp ráp trong nước,"10,000 Km",Trắng,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1285000000,2022
+875,Xe Ford Everest 2.5L 4x2 MT 2014,Ford,xe-ford-everest-2.5l-4x2-mt-2014-4781621,SUV,Lắp ráp trong nước,"85,000 Km",Bạc,8 chỗ,2.5 L,,Số tay,RFD - Dẫn động cầu sau,55000000,2014
+876,Xe Volvo S90 Inscription LWB B6 AWD 2022,Volvo,xe-volvo-s90-inscription-lwb-b6-awd-2022-4931179,Sedan,Nhập khẩu,"3,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2199000000,2022
+877,Xe Volvo V60 Cross Country B5 AWD 2022,Volvo,xe-volvo-v60-cross-country-b5-awd-2022-4839945,Wagon,Nhập khẩu,"4,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2499000000,2022
+878,Xe Volvo XC60 T6 AWD Inscription 2020,Volvo,xe-volvo-xc60-t6-awd-inscription-2020-4930914,SUV,Nhập khẩu,"40,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1759000000,2020
+879,Xe Volvo XC90 T6 Inscription 2017,Volvo,xe-volvo-xc90-t6-inscription-2017-4839259,SUV,Nhập khẩu,"43,000 Km",Đen,7 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2679000000,2017
+880,Xe Toyota Fortuner 2.4G 4x2 MT 2022,Toyota,xe-toyota-fortuner-2.4g-4x2-mt-2022-3121183,SUV,Lắp ráp trong nước,0 Km,Bạc,7 chỗ,2.4 L,,Số tay,RFD - Dẫn động cầu sau,1026000000,2022
+881,Xe Audi Q5 2.0 AT 2013,Audi,xe-audi-q5-2.0-at-2013-4930776,SUV,Nhập khẩu,"59,500 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,90000000,2013
+882,Xe Chevrolet Captiva LTZ 2.4 AT 2014,Chevrolet,xe-chevrolet-captiva-ltz-2.4-at-2014-4925106,SUV,Lắp ráp trong nước,"80,000 Km",Đen,7 chỗ,2.4 L,,Số tự động,FWD - Dẫn động cầu trước,79000000,2014
+883,Xe Ford Everest Titanium Plus 2.0L 4x4 AT 2023,Ford,xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-4811042,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1403000000,2023
+884,Xe Hyundai Creta Tiêu chuẩn 1.5 AT 2022,Hyundai,xe-hyundai-creta-tieu-chuan-1.5-at-2022-4293288,Crossover,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2022
+885,Xe Mercedes Benz GLC 300 4Matic 2019,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2019-4917221,SUV,Lắp ráp trong nước,"25,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1579000000,2019
+886,Xe Volvo XC60 Recharge T8 AWD 2022,Volvo,xe-volvo-xc60-recharge-t8-awd-2022-4824254,SUV,Nhập khẩu,"6,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2779000000,2022
+887,Xe Mazda 3 3 HB_FL 2017,Mazda,xe-mazda-3-3-hb_fl-2017-4934617,Hatchback,Lắp ráp trong nước,"34,300 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,80000000,2017
+888,Xe Toyota Corolla altis 2.0V 2011,Toyota,xe-toyota-corolla_altis-2.0v-2011-4871427,Sedan,Lắp ráp trong nước,"90,000 Km",Xanh,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,78000000,2011
+889,Xe Kia Soluto 1.4 AT Deluxe 2020,Kia,xe-kia-soluto-1.4-at-deluxe-2020-4929768,Sedan,Lắp ráp trong nước,"40,000 Km",Đỏ,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,80000000,2020
+890,Xe Isuzu QLR210 Thùng đông 2023,Isuzu,xe-isuzu-khac-qlr210-thung-dong-2023-4898568,Truck,Lắp ráp trong nước,0 Km,Trắng,3 chỗ,,diesel,Số tay,RFD - Dẫn động cầu sau,83000000,2023
+891,Xe Toyota Fortuner 2.4G 4x2 MT 2017,Toyota,xe-toyota-fortuner-2.4g-4x2-mt-2017-4899255,SUV,Nhập khẩu,68 Km,Trắng,8 chỗ,2.4 L,,Số tay,RFD - Dẫn động cầu sau,20000000,2017
+892,Xe Mercedes Benz S class S400L 2016,Mercedes Benz,xe-mercedes_benz-s_class-s400l-2016-4931857,Sedan,Lắp ráp trong nước,"80,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,2150000000,2016
+893,Xe Hyundai SantaFe Premium 2.2L HTRAC 2020,Hyundai,xe-hyundai-santafe-premium-2.2l-htrac-2020-4920433,SUV,Lắp ráp trong nước,"40,000 Km",Trắng,7 chỗ,2.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,99000000,2020
+894,Xe Kia Sonet Premium 1.5 AT 2023,Kia,xe-kia-sonet-premium-1.5-at-2023-4840737,Crossover,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,24000000,2023
+895,Xe Ford Ranger Raptor 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2023-4894435,Bán tải / Pickup,Nhập khẩu,0 Km,Xanh,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1269000000,2023
+896,Xe Kia Cerato 1.6 AT 2018,Kia,xe-kia-cerato-1.6-at-2018-4829207,Sedan,Lắp ráp trong nước,"33,800 Km",Bạc,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2018
+897,Xe Honda CRV G 2023,Honda,xe-honda-crv-g-2023-4513369,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,23000000,2023
+898,Xe Lexus ES 250 F Sport 2022,Lexus,xe-lexus-es-250-f-sport-2022-4916809,Sedan,Nhập khẩu,"20,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,2550000000,2022
+899,Xe VinFast VF8 Eco 2022,VinFast,xe-vinfast-vf8-eco-2022-4617800,SUV,Lắp ráp trong nước,0 Km,Bạc,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,1057000000,2022
+900,Xe Ford Ranger XLS 2.0L 4x2 AT 2022,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2022-4549523,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,88000000,2022
+901,Xe Porsche Macan 2.0 2015,Porsche,xe-porsche-macan-2.0-2015-4935435,Crossover,Nhập khẩu,"50,000 Km",-,5 chỗ,,Xăng,Số tự động,-,2179000000,2015
+902,Xe Honda HRV L 2023,Honda,xe-honda-hrv-l-2023-4444587,Crossover,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,31000000,2023
+903,Xe Hyundai Accent 1.4 AT Đặc Biệt 2022,Hyundai,xe-hyundai-accent-1.4-at-dac-biet-2022-2457664,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,82000000,2022
+904,Xe Mazda CX5 2.5 AT 2016,Mazda,xe-mazda-cx5-2.5-at-2016-4934303,SUV,Lắp ráp trong nước,"42,000 Km",Cát,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,30000000,2016
+905,Xe BMW 3 Series 320i 2009,BMW,xe-bmw-3_series-320i-2009-4914622,Sedan,Nhập khẩu,"100,000 Km",Đồng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,20000000,2009
+906,Xe Mazda 3 1.5L Luxury 2019,Mazda,xe-mazda-3-1.5l-luxury-2019-4828390,Sedan,Lắp ráp trong nước,"62,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,55000000,2019
+907,Xe Gaz Sadko 2002,Gaz,xe-gaz-khac-sadko-2002-4931920,Wagon,Nhập khẩu,1 Km,Xanh,2 chỗ,,diesel,Số tay,4WD hoặc AWD,0,2002
+908,Xe Honda CRV LSE 2023,Honda,xe-honda-crv-lse-2023-4930841,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,1138000000,2023
+909,Xe Kia Cerato 1.6 AT Luxury 2019,Kia,xe-kia-cerato-1.6-at-luxury-2019-4897658,Sedan,Lắp ráp trong nước,"41,000 Km",Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2019
+910,Xe Mercedes Benz Maybach S450 4Matic 2020,Mercedes Benz,xe-mercedes_benz-maybach-s450-4matic-2020-4834510,Sedan,Nhập khẩu,"10,800 Km",Xanh,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,6999000000,2020
+911,Xe Hyundai Accent 1.4 AT Đặc Biệt 2022,Hyundai,xe-hyundai-accent-1.4-at-dac-biet-2022-3592384,Sedan,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2022
+912,Xe Toyota Camry 2.5Q 2013,Toyota,xe-toyota-camry-2.5q-2013-4651445,Sedan,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,75000000,2013
+913,Xe Ford Ranger Raptor 2.0L 4x4 AT 2021,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2021-4857253,Bán tải / Pickup,Nhập khẩu,"38,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1099000000,2021
+914,Xe Toyota Prado GX 2.7 AT 2009,Toyota,xe-toyota-prado-gx-2.7-at-2009-4883018,SUV,Nhập khẩu,"116,000 Km",Xanh,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,80000000,2009
+915,Xe Toyota Corolla Cross 1.8G 2022,Toyota,xe-toyota-corolla_cross-1.8g-2022-4915644,SUV,Nhập khẩu,0 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2022
+916,Xe Mitsubishi Triton 4x2 AT Mivec 2018,Mitsubishi,xe-mitsubishi-triton-4x2-at-mivec-2018-4880198,Bán tải / Pickup,Nhập khẩu,"80,000 Km",Xám,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,18000000,2018
+917,Xe Ford Ranger Raptor 2.0L 4x4 AT 2019,Ford,xe-ford-ranger-raptor-2.0l-4x4-at-2019-4934940,Bán tải / Pickup,Nhập khẩu,"83,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,96000000,2019
+918,Xe Ford Ranger Wildtrak 3.2L 4x4 AT 2016,Ford,xe-ford-ranger-wildtrak-3.2l-4x4-at-2016-4656861,Bán tải / Pickup,Nhập khẩu,"88,000 Km",Cam,5 chỗ,3.2 L,,Số tự động,4WD - Dẫn động 4 bánh,25000000,2016
+919,Xe Toyota Fortuner 2.8V 4x4 AT 2021,Toyota,xe-toyota-fortuner-2.8v-4x4-at-2021-4919994,SUV,Lắp ráp trong nước,"20,000 Km",Đen,7 chỗ,2.8 L,,Số tự động,4WD - Dẫn động 4 bánh,1185000000,2021
+920,Xe Toyota Fortuner Legender 2.8L 4x4 AT 2022,Toyota,xe-toyota-fortuner-legender-2.8l-4x4-at-2022-4652409,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.8 L,,Số tự động,4WD - Dẫn động 4 bánh,1410000000,2022
+921,Xe Ford Mustang 3.7L 2011,Ford,xe-ford-mustang-3.7l-2011-4808587,Coupe,Nhập khẩu,"32,000 Km",Đỏ,4 chỗ,3.7 L,,Số tự động,RFD - Dẫn động cầu sau,1888000000,2011
+922,Xe Ford Ranger Wildtrak 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-wildtrak-2.0l-4x4-at-2023-4623550,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,10000000,2023
+923,Xe Mercedes Benz GLS 450 4Matic 2021,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2021-4922488,SUV,Nhập khẩu,"8,822 Km",Xanh,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4738000000,2021
+924,Xe Mercedes Benz GLC 300 4Matic 2017,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2017-4928871,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,1220000000,2017
+925,Xe Mitsubishi Triton 4x2 AT 2023,Mitsubishi,xe-mitsubishi-triton-4x2-at-2023-4922138,Bán tải / Pickup,Nhập khẩu,0 Km,Đen,5 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,95000000,2023
+926,Xe Mercedes Benz GLS 450 4Matic 2020,Mercedes Benz,xe-mercedes_benz-gls-450-4matic-2020-4879359,SUV,Nhập khẩu,"16,688 Km",Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4598000000,2020
+927,Xe Ford Ranger XLT 4x4 MT 2005,Ford,xe-ford-ranger-xlt-4x4-mt-2005-4847164,Bán tải / Pickup,Lắp ráp trong nước,"15,000 Km",Xám,5 chỗ,2.5 L,,Số tay,4WD - Dẫn động 4 bánh,15000000,2005
+928,Xe Toyota Fortuner 2.4L 4x2 MT 2023,Toyota,xe-toyota-fortuner-2.4l-4x2-mt-2023-4714499,SUV,Lắp ráp trong nước,0 Km,Đen,7 chỗ,2.4 L,,Số tay,RFD - Dẫn động cầu sau,1026000000,2023
+929,Xe Hyundai i10 Grand 1.2 MT Base 2016,Hyundai,xe-hyundai-i10-grand-1.2-mt-base-2016-4882933,Sedan,Nhập khẩu,0 Km,Bạc,5 chỗ,1.25 L,,Số tay,FWD - Dẫn động cầu trước,48000000,2016
+930,Xe Mercedes Benz E class E200 Exclusive 2023,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2023-4418822,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,2540000000,2023
+931,Xe Mercedes Benz C class C200 2017,Mercedes Benz,xe-mercedes_benz-c_class-c200-2017-4895698,Sedan,Lắp ráp trong nước,"40,000 Km",Trắng,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,80000000,2017
+932,Xe Toyota Yaris 1.3at 2008,Toyota,xe-toyota-yaris-1.3at-2008-4935418,Hatchback,Nhập khẩu,"100,000 Km",Trắng,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,65000000,2008
+933,Xe Honda City RS 1.5 AT 2023,Honda,xe-honda-city-rs-1.5-at-2023-4631858,Sedan,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2023
+934,Xe Honda Civic G 1.5 AT 2023,Honda,xe-honda-civic-g-1.5-at-2023-4266574,Sedan,Nhập khẩu,0 Km,Xám,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,70000000,2023
+935,Xe Hyundai i10 Grand 1.2 AT 2016,Hyundai,xe-hyundai-i10-grand-1.2-at-2016-4904697,Hatchback,Nhập khẩu,"30,000 Km",Đỏ,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,39000000,2016
+936,Xe Ford Territory Titanium 1.5 AT 2023,Ford,xe-ford-territory-titanium-1.5-at-2023-4693206,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2023
+937,Xe Toyota Fortuner 2.4G 4x2 AT 2021,Toyota,xe-toyota-fortuner-2.4g-4x2-at-2021-4920156,SUV,Lắp ráp trong nước,"59,000 Km",Đen,7 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,1035000000,2021
+938,Xe Lexus LX 570 Super Sport 2018,Lexus,xe-lexus-lx-570-super-sport-2018-4925937,SUV,Nhập khẩu,"60,000 Km",Đen,7 chỗ,5.7 L,,Số tự động,AWD - 4 bánh toàn thời gian,7450000000,2018
+939,Xe Kia Carnival Signature 2.2D 2023,Kia,xe-kia-carnival-signature-2.2d-2023-4915072,Van/Minivan,Lắp ráp trong nước,0 Km,Xanh,7 chỗ,2.2 L,,Số tự động,FWD - Dẫn động cầu trước,1529000000,2023
+940,Xe Mercedes Benz S class S400L 2014,Mercedes Benz,xe-mercedes_benz-s_class-s400l-2014-4906510,Sedan,Lắp ráp trong nước,"45,000 Km",Trắng,5 chỗ,3.0 L,,Số tự động,RFD - Dẫn động cầu sau,1750000000,2014
+941,Xe Toyota Prado VX 2.7L 2019,Toyota,xe-toyota-prado-vx-2.7l-2019-4882797,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,2145000000,2019
+942,Xe Ford EcoSport Titanium 1.5L AT 2018,Ford,xe-ford-ecosport-titanium-1.5l-at-2018-4927734,SUV,Lắp ráp trong nước,"50,000 Km",Nâu,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,29000000,2018
+943,Xe Toyota Zace 1.8 2005,Toyota,xe-toyota-zace-1.8-2005-4935412,SUV,Lắp ráp trong nước,"150,000 Km",Vàng,7 chỗ,,Xăng,Số tay,FWD - Dẫn động cầu trước,79000000,2005
+944,Xe Ford Everest Titanium Plus 2.0L 4x4 AT 2023,Ford,xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-4901963,SUV,Nhập khẩu,0 Km,Đen,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1419000000,2023
+945,Xe Ford Everest Titanium Plus 2.0L 4x4 AT 2023,Ford,xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-4473341,SUV,Nhập khẩu,0 Km,Đỏ,7 chỗ,2.0 L,,Số tự động,4WD - Dẫn động 4 bánh,1452000000,2023
+946,Xe Ford Ranger XLS 2.2L 4x2 MT 2017,Ford,xe-ford-ranger-xls-2.2l-4x2-mt-2017-4862445,Bán tải / Pickup,Nhập khẩu,"90,000 Km",Xanh,5 chỗ,2.2 L,,Số tay,RFD - Dẫn động cầu sau,65000000,2017
+947,Xe Kia K5 Luxury 2.0 AT 2022,Kia,xe-kia-k5-luxury-2.0-at-2022-4881418,Sedan,Lắp ráp trong nước,"11,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,35000000,2022
+948,Xe Mercedes Benz C class C200 Avantgarde 2023,Mercedes Benz,xe-mercedes_benz-c_class-c200-avantgarde-2023-4904840,Sedan,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,RFD - Dẫn động cầu sau,1539000000,2023
+949,Xe Hyundai Tucson 2.0 ATH 2020,Hyundai,xe-hyundai-tucson-2.0-ath-2020-4907550,Crossover,Lắp ráp trong nước,"9,999 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,5000000,2020
+950,Xe Toyota Corolla altis 1.8G 2023,Toyota,xe-toyota-corolla_altis-1.8g-2023-4504146,Sedan,Nhập khẩu,0 Km,Trắng,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,19000000,2023
+951,Xe Mitsubishi Xpander 1.5 AT 2022,Mitsubishi,xe-mitsubishi-xpander-1.5-at-2022-4834631,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,88000000,2022
+952,Xe Hyundai i10 1.2 2016,Hyundai,xe-hyundai-i10-1.2-2016-4935417,Hatchback,Nhập khẩu,"80,000 Km",Bạc,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,19000000,2016
+953,Xe Hyundai SantaFe Tiêu chuẩn 2.5L 2022,Hyundai,xe-hyundai-santafe-tieu-chuan-2.5l-2022-4724280,SUV,Lắp ráp trong nước,0 Km,Đỏ,7 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1000000000,2022
+954,Xe Mercedes Benz GLC 300 4Matic 2022,Mercedes Benz,xe-mercedes_benz-glc-300-4matic-2022-4567504,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2639000000,2022
+955,Xe Peugeot Traveller Luxury 2019,Peugeot,xe-peugeot-traveller-luxury-2019-4698523,Van/Minivan,Lắp ráp trong nước,"47,000 Km",Xám,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,1100000000,2019
+956,Xe LandRover Range Rover Vogue 3.0 Td6 2014,LandRover,xe-landrover-range_rover-vogue-3.0-td6-2014-4873844,SUV,Nhập khẩu,"46,000 Km",Đen,5 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3399000000,2014
+957,Xe Toyota Prado VX 2.7L 2019,Toyota,xe-toyota-prado-vx-2.7l-2019-4654368,SUV,Nhập khẩu,"38,000 Km",Cát,7 chỗ,2.7 L,,Số tự động,4WD - Dẫn động 4 bánh,2290000000,2019
+958,Xe Suzuki Swift RS 2016,Suzuki,xe-suzuki-swift-rs-2016-4888055,Hatchback,Lắp ráp trong nước,"47,000 Km",Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,20000000,2016
+959,Xe Mazda 2 1.5 AT 2018,Mazda,xe-mazda-2-1.5-at-2018-4864150,Hatchback,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2018
+960,Xe Kia Rondo GAT Deluxe 2019,Kia,xe-kia-rondo-gat-deluxe-2019-4857713,SUV,Lắp ráp trong nước,"48,000 Km",Trắng,7 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,98000000,2019
+961,Xe Mercedes Benz E class E200 Exclusive 2022,Mercedes Benz,xe-mercedes_benz-e_class-e200-exclusive-2022-4930409,Sedan,Lắp ráp trong nước,"15,000 Km",Đỏ,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1999000000,2022
+962,Xe Honda CRV E 2023,Honda,xe-honda-crv-e-2023-4891959,SUV,Lắp ráp trong nước,0 Km,Xám,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,78000000,2023
+963,Xe Toyota Corolla Cross 1.8V 2022,Toyota,xe-toyota-corolla_cross-1.8v-2022-3869821,SUV,Nhập khẩu,0 Km,Đen,5 chỗ,1.8 L,,Số tự động,FWD - Dẫn động cầu trước,26000000,2022
+964,Xe Mercedes Benz GLC 200 2022,Mercedes Benz,xe-mercedes_benz-glc-200-2022-2267448,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1909000000,2022
+965,Xe Honda City RS 1.5 AT 2022,Honda,xe-honda-city-rs-1.5-at-2022-4934924,Sedan,Lắp ráp trong nước,"28,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,56000000,2022
+966,Xe Ford Ranger Wildtrak 3.2L 4x4 AT 2017,Ford,xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-4884183,Bán tải / Pickup,Nhập khẩu,0 Km,Trắng,5 chỗ,3.2 L,,Số tự động,4WD - Dẫn động 4 bánh,80000000,2017
+967,Xe VinFast VF8 Plus 2023,VinFast,xe-vinfast-vf8-plus-2023-4898684,SUV,Lắp ráp trong nước,0 Km,Xanh,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,7000000,2023
+968,Xe Mercedes Benz E class E200 2014,Mercedes Benz,xe-mercedes_benz-e_class-e200-2014-4645615,Sedan,Lắp ráp trong nước,"72,000 Km",Nâu,5 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,35000000,2014
+969,Xe Ford Fiesta 1.6 AT 2012,Ford,xe-ford-fiesta-1.6-at-2012-4857279,Sedan,Lắp ráp trong nước,"86,000 Km",Trắng,5 chỗ,1.6 L,,Số tự động,FWD - Dẫn động cầu trước,59000000,2012
+970,Xe Mercedes Benz GLE Class GLE 450 4Matic 2020,Mercedes Benz,xe-mercedes_benz-gle_class-gle-450-4matic-2020-4837422,SUV,Nhập khẩu,"30,000 Km",Trắng,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,3390000000,2020
+971,Xe Toyota Land Cruiser 4.6 V8 2020,Toyota,xe-toyota-land_cruiser-4.6-v8-2020-4921261,SUV,Nhập khẩu,"68,000 Km",Đen,8 chỗ,4.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,3650000000,2020
+972,Xe Ford Everest Ambiente 2.0L 4x2 AT 2023,Ford,xe-ford-everest-ambiente-2.0l-4x2-at-2023-4910484,SUV,Nhập khẩu,0 Km,Nâu,7 chỗ,2.0 L,,Số tự động,RFD - Dẫn động cầu sau,1079000000,2023
+973,Xe Mazda CX5 2.0 Luxury 2019,Mazda,xe-mazda-cx5-2.0-luxury-2019-4698183,SUV,Lắp ráp trong nước,0 Km,Đỏ,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,28000000,2019
+974,Xe Kia Seltos Luxury 1.4 AT 2023,Kia,xe-kia-seltos-luxury-1.4-at-2023-4915075,Crossover,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.4 L,,Số tự động,FWD - Dẫn động cầu trước,4000000,2023
+975,Xe VinFast VF8 Eco 2023,VinFast,xe-vinfast-vf8-eco-2023-4815072,SUV,Lắp ráp trong nước,0 Km,Đen,5 chỗ,0.2 L,,Số tự động,AWD - 4 bánh toàn thời gian,77000000,2023
+976,Xe Mitsubishi Triton 4x2 AT 2016,Mitsubishi,xe-mitsubishi-triton-4x2-at-2016-4830321,Bán tải / Pickup,Nhập khẩu,"90,000 Km",Trắng,5 chỗ,2.5 L,,Số tự động,RFD - Dẫn động cầu sau,35000000,2016
+977,Xe Lexus GX 460 2015,Lexus,xe-lexus-gx-460-2015-4831003,SUV,Nhập khẩu,"70,000 Km",Nâu,7 chỗ,4.6 L,,Số tự động,AWD - 4 bánh toàn thời gian,2890000000,2015
+978,Xe Ford Territory Titanium 1.5 AT 2023,Ford,xe-ford-territory-titanium-1.5-at-2023-4630623,SUV,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,49000000,2023
+979,Xe Ford Ranger XL 2.0L 4x4 MT 2023,Ford,xe-ford-ranger-xl-2.0l-4x4-mt-2023-4735885,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Cam,5 chỗ,2.2 L,,Số tay,4WD - Dẫn động 4 bánh,19000000,2023
+980,Xe Toyota Fortuner 2.4G 4x2 AT Legender 2023,Toyota,xe-toyota-fortuner-2.4g-4x2-at-legender-2023-3371646,SUV,Lắp ráp trong nước,0 Km,Trắng,7 chỗ,2.4 L,,Số tự động,RFD - Dẫn động cầu sau,1267000000,2023
+981,Xe Mazda cx3 Deluxe 1.5 AT 2023,Mazda,xe-mazda-cx3-deluxe-1.5-at-2023-4257891,Crossover,Nhập khẩu,0 Km,Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,49000000,2023
+982,Xe Toyota Camry 2.5HV 2023,Toyota,xe-toyota-camry-2.5hv-2023-4929075,Sedan,Nhập khẩu,0 Km,Đen,5 chỗ,2.5 L,,Số tự động,FWD - Dẫn động cầu trước,1495000000,2023
+983,Xe Mitsubishi Xpander Premium 1.5 AT 2023,Mitsubishi,xe-mitsubishi-xpander-premium-1.5-at-2023-4847408,SUV,Nhập khẩu,0 Km,Trắng,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,58000000,2023
+984,Xe Toyota Camry 2.0E 2016,Toyota,xe-toyota-camry-2.0e-2016-4935411,Sedan,Lắp ráp trong nước,"63,000 Km",Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,45000000,2016
+985,Xe Suzuki XL7 1.5 AT 2022,Suzuki,xe-suzuki-xl7-1.5-at-2022-3416677,SUV,Nhập khẩu,0 Km,Cam,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,99000000,2022
+986,Xe Mazda 6 2.0L Premium 2018,Mazda,xe-mazda-6-2.0l-premium-2018-4922858,Sedan,Lắp ráp trong nước,"48,000 Km",Đen,5 chỗ,2.0 L,,Số tự động,FWD - Dẫn động cầu trước,85000000,2018
+987,Xe Mitsubishi Attrage 1.2 CVT 2023,Mitsubishi,xe-mitsubishi-attrage-1.2-cvt-2023-4922155,Sedan,Nhập khẩu,0 Km,Xám,5 chỗ,1.2 L,,Số tự động,FWD - Dẫn động cầu trước,33000000,2023
+988,Xe Hyundai i10 Grand 1.2 AT 2016,Hyundai,xe-hyundai-i10-grand-1.2-at-2016-4853986,Hatchback,Nhập khẩu,"72,000 Km",Đỏ,5 chỗ,1.25 L,,Số tự động,FWD - Dẫn động cầu trước,50000000,2016
+989,Xe Mercedes Benz GLS 400 4Matic 2017,Mercedes Benz,xe-mercedes_benz-gls-400-4matic-2017-4841345,SUV,Nhập khẩu,"48,270 Km",Đen,7 chỗ,3.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,2830000000,2017
+990,Xe LandRover Range Rover Autobiography 5.0 2014,LandRover,xe-landrover-range_rover-autobiography-5.0-2014-4907000,SUV,Nhập khẩu,"60,000 Km",Đen,4 chỗ,5.0 L,,Số tự động,AWD - 4 bánh toàn thời gian,4250000000,2014
+991,Xe Hyundai Starex 2.5 AT Limosin 2015,Hyundai,xe-hyundai-starex-2.5-at-limosin-2015-4931903,Van/Minivan,Nhập khẩu,"70,000 Km",Xám,9 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,99000000,2015
+992,Xe Mazda 3 1.5L Luxury 2021,Mazda,xe-mazda-3-1.5l-luxury-2021-4844400,Sedan,Lắp ráp trong nước,"20,000 Km",Đỏ,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,86000000,2021
+993,Xe Ford Ranger XLS 2.0L 4x4 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x4-at-2023-4897759,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Xám,5 chỗ,2.2 L,,Số tự động,4WD - Dẫn động 4 bánh,56000000,2023
+994,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4741788,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,88000000,2023
+995,Xe Mazda 3 1.5 AT 2017,Mazda,xe-mazda-3-1.5-at-2017-4824494,Sedan,Lắp ráp trong nước,"60,000 Km",Xanh,5 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,10000000,2017
+996,Xe Mercedes Benz E class E250 2011,Mercedes Benz,xe-mercedes_benz-e_class-e250-2011-4844637,Sedan,Lắp ráp trong nước,"110,000 Km",Đen,5 chỗ,1.8 L,,Số tự động,RFD - Dẫn động cầu sau,19000000,2011
+997,Xe Toyota Wigo 2023,Toyota,xe-toyota-wigo--2023-4852855,Hatchback,Nhập khẩu,0 Km,Đen,5 chỗ,,Xăng,Số tự động,FWD - Dẫn động cầu trước,79000000,2023
+998,Xe Honda CRV L 2023,Honda,xe-honda-crv-l-2023-3626733,SUV,Lắp ráp trong nước,0 Km,Xanh,7 chỗ,1.5 L,,Số tự động,FWD - Dẫn động cầu trước,1118000000,2023
+999,Xe Ford Ranger XLS 2.0L 4x2 AT 2023,Ford,xe-ford-ranger-xls-2.0l-4x2-at-2023-4925029,Bán tải / Pickup,Lắp ráp trong nước,0 Km,Trắng,5 chỗ,2.2 L,,Số tự động,RFD - Dẫn động cầu sau,88000000,2023
